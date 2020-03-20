@@ -46,6 +46,9 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool
 * https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement
 * https://github.com/amaas/rnn-speech-denoising
+* https://github.com/hyli666/DNN-SpeechEnhancement
+* deep_learning_for_speech_enhancement_keras_python https://github.com/yongxuUSTC/sednn
+* segan_pytorch https://github.com/santi-pdp/segan_pytorch
 
 ## dereverberation
 * dereverberation Single-Channel Dereverberation in Matlab 
@@ -100,3 +103,4 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * sap-voicebox [[Code]](https://github.com/ImperialCollegeLondon/sap-voicebox)
 * Calculate-SNR-SDR [[Code]](https://github.com/JusperLee/Calculate-SNR-SDR)
 * binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
+* https://github.com/vBaiCai/python-pesq
