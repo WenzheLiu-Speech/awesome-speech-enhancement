@@ -25,6 +25,9 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/andabi/music-source-separation)
 * Singing-Voice-Separation 
 [[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
+* https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques
+* github.com/ShubhamAgarwal1616/FastICA
+
 ### 论文：
 Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 
@@ -39,6 +42,10 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 [[Code]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 * gcc-nmf:Real-time GCC-NMF Blind Speech Separation and Enhancement 
 [[Code]](https://github.com/seanwood/gcc-nmf)
+* https://github.com/linan2/TensorFlow-speech-enhancement-Chinese
+* https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool
+* https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement
+* https://github.com/amaas/rnn-speech-denoising
 
 ## dereverberation
 * dereverberation Single-Channel Dereverberation in Matlab 
@@ -68,6 +75,14 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * Binaural-Auditory-Localization-System 
 [[Code]](https://github.com/r04942117/Binaural-Auditory-Localization-System)
 * Binaural_Localization:ITD-based localization of sound sources in complex acoustic environments [[Code]](https://github.com/Hardcorehobel/Binaural_Localization)
+* https://github.com/XiaoxiangGao/Dual_Channel_Beamformer_and_Postfilter
+* https://github.com/Tungluai/TDOA-estimated-by-Kmeans
+* 麦克风声源定位 https://github.com/xiaoli1368/Microphone-sound-source-localization
+* https://github.com/Tungluai/RTF-based-LCMV-GSC
+* https://github.com/gogyzzz/beamformit_matlab
+* https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement
+* https://github.com/wangwei2009/DOA
+* https://github.com/fgnt/nn-gev
 
 ## Sound Event Detection
 * sed_eval - Evaluation toolbox for Sound Event Detection 
