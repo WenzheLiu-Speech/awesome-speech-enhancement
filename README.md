@@ -25,7 +25,7 @@ speech enhancement\speech seperation\sound source localization
 [[Code]](https://github.com/andabi/music-source-separation)
 * Singing-Voice-Separation 
 [[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
-论文：[Speech-Separation-Paper](https://github.com/JusperLee/Speech-Separation-Paper）
+### 论文：[[Speech-Separation-Paper]](https://github.com/JusperLee/Speech-Separation-Paper）
 
 ## speech enhancement
 * SETK: Speech Enhancement Tools integrated with Kaldi 
