@@ -2,6 +2,8 @@
 speech enhancement\speech seperation\sound source localization
 
 ## speech seperation
+* Tasnet: time-domain audio separation network for real-time, single-channel speech separation
+[[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
 * Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation 
 [[Code]](https://github.com/kaituoxu/Conv-TasNet)
 * Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation
@@ -23,6 +25,7 @@ speech enhancement\speech seperation\sound source localization
 [[Code]](https://github.com/andabi/music-source-separation)
 * Singing-Voice-Separation 
 [[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
+论文：[Speech-Separation-Paper](https://github.com/JusperLee/Speech-Separation-Paper）
 
 ## speech enhancement
 * SETK: Speech Enhancement Tools integrated with Kaldi 
