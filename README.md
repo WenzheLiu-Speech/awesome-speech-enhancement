@@ -60,15 +60,15 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * dereverberation-and-denoising:Supervised Speech Dereverberation in Noisy Environments using Exemplar-based Sparse Representations [[Code]](https://github.com/deepakbaby/dereverberation-and-denoising)
 
 ## array signal processing
-* ==MASP:Microphone Array Speech Processing== [[Code]](https://github.com/ZitengWang/MASP)
+* <font color=red>MASP</font>:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
 * BeamformingSpeechEnhancer 
 [[Code]](https://github.com/hkmogul/BeamformingSpeechEnhancer)
 * DNN_Localization_And_Separation 
 [[Code]](https://github.com/shaharhoch/DNN_Localization_And_Separation)
-* nn-gev:Neural network supported GEV beamformer==CHiME3== [[Code]](https://github.com/fgnt/nn-gev)
-* chime4-nn-mask:Implementation of NN based mask estimator in pytorch（reuse some programming from nn-gev）[[Code]](https://github.com/funcwj/chime4-nn-mask)
-* pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
-* beamformit_matlab:A MATLAB implementation of ==CHiME4== baseline Beamformit  [[Code]](https://github.com/gogyzzz/beamformit_matlab)
+* nn-gev:Neural network supported GEV beamformer<font color=red>CHiME3</font> [[Code]](https://github.com/fgnt/nn-gev)
+* <font color=red>chime4</font>-nn-mask:Implementation of NN based mask estimator in pytorch（reuse some programming from nn-gev）[[Code]](https://github.com/funcwj/chime4-nn-mask)
+* beamformit_matlab:A MATLAB implementation of <font color=red>CHiME4</font> baseline Beamformit  [[Code]](https://github.com/gogyzzz/beamformit_matlab)
+* pb_chime5:Speech enhancement system for the <font color=red>CHiME-5</font> dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
 * beamformit:麦克风阵列算法 [[Code]](https://github.com/592595/beamformit)
 * Beamforming-for-speech-enhancement [[Code]](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement)
 -----------------------------------------------------------------------
