@@ -60,10 +60,18 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * dereverberation-and-denoising:Supervised Speech Dereverberation in Noisy Environments using Exemplar-based Sparse Representations [[Code]](https://github.com/deepakbaby/dereverberation-and-denoising)
 
 ## array signal processing
+* ==MASP:Microphone Array Speech Processing== [[Code]](https://github.com/ZitengWang/MASP)
 * BeamformingSpeechEnhancer 
 [[Code]](https://github.com/hkmogul/BeamformingSpeechEnhancer)
 * DNN_Localization_And_Separation 
 [[Code]](https://github.com/shaharhoch/DNN_Localization_And_Separation)
+* nn-gev:Neural network supported GEV beamformer==CHiME3== [[Code]](https://github.com/fgnt/nn-gev)
+* chime4-nn-mask:Implementation of NN based mask estimator in pytorch（reuse some programming from nn-gev）[[Code]](https://github.com/funcwj/chime4-nn-mask)
+* pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
+* beamformit_matlab:A MATLAB implementation of ==CHiME4== baseline Beamformit  [[Code]](https://github.com/gogyzzz/beamformit_matlab)
+* beamformit:麦克风阵列算法 [[Code]](https://github.com/592595/beamformit)
+* Beamforming-for-speech-enhancement [[Code]](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement)
+-----------------------------------------------------------------------
 * binauralLocalization 
 [[Code]](https://github.com/nicolasobin/binauralLocalization)
 * robotaudition_examples:Some Robot Audition simplified examples (sound source localization and separation), coded in Octave/Matlab [[Code]](https://github.com/balkce/robotaudition_examples)
@@ -73,19 +81,16 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 [[Code]](https://github.com/morriswmz/doa-tools)
 * messl:Model-based EM Source Separation and Localization 
 [[Code]](https://github.com/mim/messl)
+* messlJsalt15:MESSL wrappers etc for JSALT 2015, including CHiME3 [[Code]](https://github.com/speechLabBcCuny/messlJsalt15)
 * fast_sound_source_localization_using_TLSSC:Fast Sound Source Localization Using Two-Level Search Space Clustering
 [[Code]](https://github.com/LeeTaewoo/fast_sound_source_localization_using_TLSSC)
 * Binaural-Auditory-Localization-System 
 [[Code]](https://github.com/r04942117/Binaural-Auditory-Localization-System)
 * Binaural_Localization:ITD-based localization of sound sources in complex acoustic environments [[Code]](https://github.com/Hardcorehobel/Binaural_Localization)
-* https://github.com/XiaoxiangGao/Dual_Channel_Beamformer_and_Postfilter
-* https://github.com/Tungluai/TDOA-estimated-by-Kmeans
-* 麦克风声源定位 https://github.com/xiaoli1368/Microphone-sound-source-localization
-* https://github.com/Tungluai/RTF-based-LCMV-GSC
-* https://github.com/gogyzzz/beamformit_matlab
-* https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement
-* https://github.com/wangwei2009/DOA
-* https://github.com/fgnt/nn-gev
+* Dual_Channel_Beamformer_and_Postfilter [[Code]](https://github.com/XiaoxiangGao/Dual_Channel_Beamformer_and_Postfilter)
+* 麦克风声源定位 [[Code]](https://github.com/xiaoli1368/Microphone-sound-source-localization)
+* RTF-based-LCMV-GSC [[Code]](https://github.com/Tungluai/RTF-based-LCMV-GSC)
+* DOA [[Code]](https://github.com/wangwei2009/DOA)
 
 ## Sound Event Detection
 * sed_eval - Evaluation toolbox for Sound Event Detection 
@@ -104,3 +109,5 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * Calculate-SNR-SDR [[Code]](https://github.com/JusperLee/Calculate-SNR-SDR)
 * binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
 * https://github.com/vBaiCai/python-pesq
+
+TODO https://github.com/topics/beamforming
