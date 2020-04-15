@@ -19,6 +19,8 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
 * Deep-Clustering-for-Speech-Separation
 [[Code]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation)
+* sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
+* sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
 * ONSSEN: An Open-source Speech Separation and Enhancement Library 
 [[Code]](https://github.com/speechLabBcCuny/onssen)
 * music-source-separation 
