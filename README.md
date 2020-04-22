@@ -17,8 +17,11 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/funcwj/uPIT-for-speech-separation)
 * LSTM_PIT_Speech_Separation 
 [[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
-* Deep-Clustering-for-Speech-Separation
+* Deep-Clustering
 [[Code]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation)
+[[Code]](https://github.com/simonsuthers/Speech-Separation)
+[[Code]](https://github.com/funcwj/deep-clustering)
+
 * sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
 * sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
 * ONSSEN: An Open-source Speech Separation and Enhancement Library 
@@ -34,6 +37,10 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 
 ## speech enhancement
+* IRM-based-Speech-Enhancement-using-LSTM
+[[Code]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM)
+* nn-irm
+[[Code]](https://github.com/zhaoforever/nn-irm)
 * SETK: Speech Enhancement Tools integrated with Kaldi 
 [[Code]](https://github.com/funcwj/setk)
 * sednn:deep_learning_for_speech_enhancement_keras_python 
