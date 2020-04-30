@@ -32,7 +32,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * Singing-Voice-Separation 
 [[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
 * Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
-* github.com/ShubhamAgarwal1616/FastICA
+* FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
 * A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
 ### 论文：
 Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
