@@ -68,6 +68,7 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * dereverberate 
 [[Code]](https://github.com/matangover/dereverberate)
 * dereverberation-and-denoising:Supervised Speech Dereverberation in Noisy Environments using Exemplar-based Sparse Representations [[Code]](https://github.com/deepakbaby/dereverberation-and-denoising)
+* DNN_WPE [[Code]](https://github.com/nttcslab-sp/dnn_wpe)
 
 ## array signal processing
 * <font color=red>MASP</font>:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
