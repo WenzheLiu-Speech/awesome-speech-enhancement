@@ -22,7 +22,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/simonsuthers/Speech-Separation)
 [[Code]](https://github.com/funcwj/deep-clustering)
 
-* asteroid:The PyTorch-based audio source separation toolkit for researchers[[Code]](https://github.com/mpariente/asteroid)
+* asteroid:The PyTorch-based audio source separation toolkit for researchers[[PDF]](https://arxiv.org/pdf/2005.04132.pdf)[[Code]](https://github.com/mpariente/asteroid)
 * sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
 * sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
 * ONSSEN: An Open-source Speech Separation and Enhancement Library 
