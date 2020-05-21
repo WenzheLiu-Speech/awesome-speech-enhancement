@@ -57,7 +57,6 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement
 * https://github.com/amaas/rnn-speech-denoising
 * https://github.com/hyli666/DNN-SpeechEnhancement
-* deep_learning_for_speech_enhancement_keras_python https://github.com/yongxuUSTC/sednn
 * segan_pytorch https://github.com/santi-pdp/segan_pytorch
 
 ## dereverberation
