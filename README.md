@@ -125,6 +125,6 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * Calculate-SNR-SDR [[Code]](https://github.com/JusperLee/Calculate-SNR-SDR)
 * ROOMSIM:binaural image source simulation [[Code]](https://github.com/Wenzhe-Liu/ROOMSIM)
 * binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
-* https://github.com/vBaiCai/python-pesq
+* PESQ [[Code]](https://github.com/vBaiCai/python-pesq)
 
 TODO https://github.com/topics/beamforming
