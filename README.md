@@ -52,12 +52,15 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 [[Code]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 * gcc-nmf:Real-time GCC-NMF Blind Speech Separation and Enhancement 
 [[Code]](https://github.com/seanwood/gcc-nmf)
-* https://github.com/linan2/TensorFlow-speech-enhancement-Chinese
-* https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool
-* https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement
-* https://github.com/amaas/rnn-speech-denoising
-* https://github.com/hyli666/DNN-SpeechEnhancement
-* segan_pytorch https://github.com/santi-pdp/segan_pytorch
+* TensorFlow-speech-enhancement-Chinese [[Code]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
+* DNN-Speech-enhancement-demo-tool [[Code]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)
+* CNN-for-single-channel-speech-enhancement [[Code]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
+* rnn-speech-denoising [[Code]](https://github.com/amaas/rnn-speech-denoising)
+* DNN-SpeechEnhancement [[Code]](https://github.com/hyli666/DNN-SpeechEnhancement)
+* segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
+* PHASEN[[Code]](https://github.com/huyanxin/phasen)
+* TCNSE [[Code]](https://github.com/ykoyama58/tcnse)
+* pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
 
 ## dereverberation
 * dereverberation Single-Channel Dereverberation in Matlab 
@@ -68,6 +71,7 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 [[Code]](https://github.com/matangover/dereverberate)
 * dereverberation-and-denoising:Supervised Speech Dereverberation in Noisy Environments using Exemplar-based Sparse Representations [[Code]](https://github.com/deepakbaby/dereverberation-and-denoising)
 * DNN_WPE [[Code]](https://github.com/nttcslab-sp/dnn_wpe)
+* nara_wpe:Different implementations of "Weighted Prediction Error" for speech dereverberation [[Code]](https://github.com/fgnt/nara_wpe)
 
 ## array signal processing
 * <font color=red>MASP</font>:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
