@@ -124,8 +124,10 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * speechFeatures:语音处理，声源定位中的一些基本特征 [[Code]](https://github.com/SusannaWull/speechFeatures)
 * sap-voicebox [[Code]](https://github.com/ImperialCollegeLondon/sap-voicebox)
 * Calculate-SNR-SDR [[Code]](https://github.com/JusperLee/Calculate-SNR-SDR)
+* RIR-Generator [[Code]](https://github.com/ehabets/RIR-Generator)
+* Python library for Room Impulse Response (RIR) simulation with GPU acceleration [[Code]](https://github.com/DavidDiazGuerra/gpuRIR)
 * ROOMSIM:binaural image source simulation [[Code]](https://github.com/Wenzhe-Liu/ROOMSIM)
 * binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
 * PESQ [[Code]](https://github.com/vBaiCai/python-pesq)
 
-TODO https://github.com/topics/beamforming
+;TODO https://github.com/topics/beamforming
