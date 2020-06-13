@@ -42,6 +42,8 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 [[Code]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM)
 * nn-irm
 [[Code]](https://github.com/zhaoforever/nn-irm)
+* Speech Enhancement Using a Two-Stage Network for an Efficient Boosting Strategy
+[[Code]](https://github.com/jtkim-kaist/Speech-enhancement)[[PDF]](https://ieeexplore.ieee.org/document/8668449)
 * SETK: Speech Enhancement Tools integrated with Kaldi 
 [[Code]](https://github.com/funcwj/setk)
 * sednn:deep_learning_for_speech_enhancement_keras_python 
@@ -130,4 +132,7 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
 * PESQ [[Code]](https://github.com/vBaiCai/python-pesq)
 
-;TODO https://github.com/topics/beamforming
+## reports
+* CCF语音对话与听觉专业组语音对话与听觉前沿研讨会[[Link]](https://www.bilibili.com/video/BV1MV411k7iJ)
+
+<!--TODO https://github.com/topics/beamforming>
