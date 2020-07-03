@@ -63,6 +63,7 @@ Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
 * PHASEN[[Code]](https://github.com/huyanxin/phasen)
 * TCNSE [[Code]](https://github.com/ykoyama58/tcnse)
 * pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
+* A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement [[Code]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) [[PDF]](https://arxiv.org/pdf/1805.00579.pdf)
 
 ## dereverberation
 * dereverberation Single-Channel Dereverberation in Matlab 
