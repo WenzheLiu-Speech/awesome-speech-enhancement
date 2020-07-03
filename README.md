@@ -34,8 +34,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
 * FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
 * A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
-### 论文：
-Speech-Separation-Paper https://github.com/JusperLee/Speech-Separation-Paper
+
 
 ## speech enhancement
 * IRM-based-Speech-Enhancement-using-LSTM
