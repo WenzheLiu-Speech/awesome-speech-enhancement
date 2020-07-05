@@ -95,6 +95,8 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/xuchenglin28/WSCM-MUSIC)
 * doa-tools
 [[Code]](https://github.com/morriswmz/doa-tools)
+*  Regression and Classification for Direction-of-Arrival Estimation with Convolutional Recurrent Neural Networks
+[[Code]](https://github.com/RoyJames/doa-release) [[PDF]](https://arxiv.org/pdf/1904.08452v3.pdf)
 * messl:Model-based EM Source Separation and Localization 
 [[Code]](https://github.com/mim/messl)
 * messlJsalt15:MESSL wrappers etc for JSALT 2015, including CHiME3 [[Code]](https://github.com/speechLabBcCuny/messlJsalt15)
