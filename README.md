@@ -34,6 +34,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
 * FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
 * A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
+* Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
 
 
 ## speech enhancement
@@ -75,6 +76,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * dereverberation-and-denoising:Supervised Speech Dereverberation in Noisy Environments using Exemplar-based Sparse Representations [[Code]](https://github.com/deepakbaby/dereverberation-and-denoising)
 * DNN_WPE [[Code]](https://github.com/nttcslab-sp/dnn_wpe)
 * nara_wpe:Different implementations of "Weighted Prediction Error" for speech dereverberation [[Code]](https://github.com/fgnt/nara_wpe)
+* Dereverberation-toolkit-for-REVERB-challenge [[Code]](https://github.com/hshi-speech/Dereverberation-toolkit-for-REVERB-challenge)
 
 ## array signal processing
 * <font color=red>MASP</font>:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
