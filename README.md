@@ -38,6 +38,8 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 
 
 ## speech enhancement
+* Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
+[[Link]](https://github.com/jonashaag/speech-enhancement)
 * IRM-based-Speech-Enhancement-using-LSTM
 [[Code]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM)
 * nn-irm
