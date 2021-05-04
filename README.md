@@ -3,9 +3,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 
 ## Speech Enhancement
   #### Mask 
-  * IRM-based SE 
-    * [[PDF]](https://ieeexplore.ieee.org/document/6887314)
-    * Projects: [[IRM-based-Speech-Enhancement-using-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-speech-denoising]](https://github.com/amaas/rnn-speech-denoising) [[Deep-Learning-for-Speech-Enhancement]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
+  * IRM-based SE [[PDF]](https://ieeexplore.ieee.org/document/6887314) [[IRM-based-Speech-Enhancement-using-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-speech-denoising]](https://github.com/amaas/rnn-speech-denoising) [[Deep-Learning-for-Speech-Enhancement]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
   #### Magnitude spectrogram
   * RNNoise [[Code]](https://github.com/xiph/rnnoise)
