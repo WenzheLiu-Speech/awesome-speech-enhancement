@@ -1,8 +1,8 @@
 # awesome-speech-enhancement
 a list of speech frontend, such as speech enhancement\speech seperation\sound source localization
 
-## speech enhancement
-  ### Mask 
+## Speech Enhancement
+  #### Mask 
   * IRM-based-Speech-Enhancement-using-LSTM
   [[Code]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM)
   * nn-irm
@@ -11,7 +11,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
   * Deep-Learning-for-Speech-Enhancement 
   [[Code]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
-  ### Magnitude spectrogram
+  #### Magnitude spectrogram
   * RNNoise [[Code]](https://github.com/xiph/rnnoise)
   * DNN-Speech-enhancement-demo-tool [[Code]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)
   * sednn:deep_learning_for_speech_enhancement_keras_python 
@@ -26,45 +26,45 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
   [[Code]](https://github.com/JupiterEthan/CRN-causal)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf)
   * A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement [[Code]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) [[PDF]](https://arxiv.org/pdf/1805.00579.pdf)
 
-  ### Complex domain
+  #### Complex domain
   * GCRN-complex
   [[Code]](https://github.com/JupiterEthan/GCRN-complex)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)
   * DC-UNet [[Code]](https://github.com/chanil1218/DCUnet.pytorch)
   * DCCRN [[Code]](https://github.com/huyanxin/DeepComplexCRN) [[PDF]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf)
   * PHASEN[[Code]](https://github.com/huyanxin/phasen) [[PDF]](https://arxiv.org/abs/1911.04697)
 
-  ### Time domain
+  #### Time domain
   * facebook denoiser [[Code]](https://github.com/facebookresearch/denoiser) [[PDF]](https://arxiv.org/abs/2006.12847)
 
-  ### GAN
+  #### GAN
   * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
   * MetricGAN [[Code]](https://github.com/JasonSWFu/MetricGAN)
   * Hifigan-denoiser [[Code]](https://github.com/rishikksh20/hifigan-denoiser)
 
-  ### DNN with traditional SE
+  #### DNN with traditional SE
   * DeepXi [[Code]](https://github.com/anicolson/DeepXi)
 
-  ### Subband SE
+  #### Subband SE
   * FullSubNet [[Code]](https://github.com/haoxiangsnr/FullSubNet)
 
-  ### NMF
+  #### NMF
   * Speech_Enhancement_DNN_NMF 
   [[Code]](https://github.com/eesungkim/Speech_Enhancement_DNN_NMF)
   * gcc-nmf:Real-time GCC-NMF Blind Speech Separation and Enhancement 
   [[Code]](https://github.com/seanwood/gcc-nmf)
 
-  ### Multi-stage
+  #### Multi-stage
   * DTLN [[Code]](https://github.com/breizhn/DTLN)
 
 
-  ### Challenge
+  #### Challenge
   * DNS Challenge [[DNS Interspeech2020]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/) [[DNS ICASSP2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2021/) [[DNS Interspeech2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2021/)
 
-  ### Other repositories
+  #### Other repositories
   * Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
   [[Link]](https://github.com/jonashaag/speech-enhancement)
 
-## dereverberation
+## Dereverberation
 * dereverberation Single-Channel Dereverberation in Matlab 
 [[Code]](https://github.com/csd111/dereverberation)
 * speech_dereverbaration_using_lp_residual Single Channel Speech Dereverbaration using LP Residual 
@@ -76,7 +76,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * nara_wpe:Different implementations of "Weighted Prediction Error" for speech dereverberation [[Code]](https://github.com/fgnt/nara_wpe)
 * Dereverberation-toolkit-for-REVERB-challenge [[Code]](https://github.com/hshi-speech/Dereverberation-toolkit-for-REVERB-challenge)
 
-## array signal processing
+## Array Signal Processing
 * <font color=red>MASP</font>:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
 * BeamformingSpeechEnhancer 
 [[Code]](https://github.com/hkmogul/BeamformingSpeechEnhancer)
@@ -111,7 +111,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * RTF-based-LCMV-GSC [[Code]](https://github.com/Tungluai/RTF-based-LCMV-GSC)
 * DOA [[Code]](https://github.com/wangwei2009/DOA)
 
-## speech seperation
+## Speech Seperation
 * Tasnet: time-domain audio separation network for real-time, single-channel speech separation
 [[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
 * Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation 
@@ -157,7 +157,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * seld-net 
 [[Code]](https://github.com/sharathadavanne/seld-net)
 
-## tools
+## Tools
 * AKtools:the open software toolbox for signal acquisition, processing, and inspection in acoustics [[SVN Code]](https://svn.ak.tu-berlin.de/svn/AKtools)(username: aktools; password: ak)
 * separation_data_preparation[[Code]](https://github.com/YongyuG/separation_data_preparation)
 * MatlabToolbox [[Code]](https://github.com/IoSR-Surrey/MatlabToolbox)
