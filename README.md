@@ -14,12 +14,10 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
     * CNN : [[Park]](https://arxiv.org/abs/1609.07132)([[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement))
     * CRN : [[Tan]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf)([[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)); [[Zhao]](https://arxiv.org/pdf/1805.00579.pdf)([[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement))) 
 
-  #### Complex domain
-  * GCRN-complex
-  [[Code]](https://github.com/JupiterEthan/GCRN-complex)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)
-  * DC-UNet [[Code]](https://github.com/chanil1218/DCUnet.pytorch)
-  * DCCRN [[Code]](https://github.com/huyanxin/DeepComplexCRN) [[PDF]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf)
-  * PHASEN[[Code]](https://github.com/huyanxin/phasen) [[PDF]](https://arxiv.org/abs/1911.04697)
+  * Complex domain
+    * complex szpectrogram mazpping : [Tan]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)([[GCRN]](https://github.com/JupiterEthan/GCRN-complex))
+    * complex neural network : [[Choi]](https://arxiv.org/abs/1903.03107)([[DC-UNet]](https://github.com/chanil1218/DCUnet.pytorch)); [[Hu]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf)([[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)) 
+    * magnitude and phase : [[Yin]](https://arxiv.org/abs/1911.04697)([[PHASEN]](https://github.com/huyanxin/phasen))
 
   #### Time domain
   * facebook denoiser [[Code]](https://github.com/facebookresearch/denoiser) [[PDF]](https://arxiv.org/abs/2006.12847)
