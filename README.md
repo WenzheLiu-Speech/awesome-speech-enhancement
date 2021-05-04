@@ -41,6 +41,9 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 ### DNN with traditional SE
 * DeepXi [[Code]](https://github.com/anicolson/DeepXi)
 
+### Subband SE
+* FullSubNet [[Code]](https://github.com/haoxiangsnr/FullSubNet)
+
 ### NMF
 * Speech_Enhancement_DNN_NMF 
 [[Code]](https://github.com/eesungkim/Speech_Enhancement_DNN_NMF)
