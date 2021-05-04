@@ -83,7 +83,8 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * gcc-nmf:Real-time GCC-NMF Blind Speech Separation and Enhancement 
 [[Code]](https://github.com/seanwood/gcc-nmf)
 
-
+### Challenge
+* DNS Challenge [[DNS Interspeech2020]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/) [[DNS ICASSP2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2021/) [[DNS Interspeech2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2021/)
 
 * Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
 [[Link]](https://github.com/jonashaag/speech-enhancement)
