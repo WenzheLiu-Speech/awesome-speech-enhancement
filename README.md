@@ -4,8 +4,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 ## Speech Enhancement
   #### Mask 
   * IRM-based SE 
-    * [[Wang & Wang]](https://ieeexplore.ieee.org/document/6887314) >> [[IRM-based-Speech-Enhancement-using-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-speech-denoising]](https://github.com/amaas/rnn-speech-denoising) [[Deep-Learning-for-Speech-Enhancement]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
-    * [[Valin1]](https://ieeexplore.ieee.org/document/8547084/) >> [[RNNoise]](https://github.com/xiph/rnnoise) [[Valin2]](https://arxiv.org/abs/2008.04259) >> [[PercepNet]](https://github.com/jzi040941/PercepNet)
+    * [[Wang & Wang]](https://ieeexplore.ieee.org/document/6887314) ([[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)); [[Valin1]](https://ieeexplore.ieee.org/document/8547084/) ([[RNNoise]](https://github.com/xiph/rnnoise)); [[Valin2]](https://arxiv.org/abs/2008.04259) ([[PercepNet]](https://github.com/jzi040941/PercepNet))
   * Complex Ratio Masking [[Williamson & Wang]](https://ieeexplore.ieee.org/abstract/document/7906509)
 
   #### Mapping 
