@@ -4,14 +4,15 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 ## Speech Enhancement
   #### Mask 
   * IRM-based SE 
-    * [[Wang & Wang]](https://ieeexplore.ieee.org/document/6887314) ([[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)); [[Valin1]](https://ieeexplore.ieee.org/document/8547084/) ([[RNNoise]](https://github.com/xiph/rnnoise)); [[Valin2]](https://arxiv.org/abs/2008.04259) ([[PercepNet]](https://github.com/jzi040941/PercepNet))
-  * Complex Ratio Masking [[Williamson & Wang]](https://ieeexplore.ieee.org/abstract/document/7906509)
+    * [[Wang]](https://ieeexplore.ieee.org/document/6887314) ([[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)); [[Valin1]](https://ieeexplore.ieee.org/document/8547084/) ([[RNNoise]](https://github.com/xiph/rnnoise)); [[Valin2]](https://arxiv.org/abs/2008.04259) ([[PercepNet]](https://github.com/jzi040941/PercepNet))
+  * Complex Ratio Masking [[Williamson]](https://ieeexplore.ieee.org/abstract/document/7906509)
 
   #### Mapping 
   * Magnitude spectrogram mapping
-    * DNN : [[PDF]]() [[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-Speech-enhancement-demo-tool]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SpeechEnhancement]](https://github.com/hyli666/DNN-SpeechEnhancement) [[speech enhancement toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[Speech Enhancement Using a Two-Stage Network for an Efficient Boosting Strategy]](https://github.com/jtkim-kaist/Speech-enhancement)[[PDF]](https://ieeexplore.ieee.org/document/8668449) [[TensorFlow-speech-enhancement-Chinese]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
-    * CNN : [[CNN-for-single-channel-speech-enhancement]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
-    * CRN : [[CRN-causal]](https://github.com/JupiterEthan/CRN-causal)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) [[A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) [[PDF]](https://arxiv.org/pdf/1805.00579.pdf)
+    * DNN : [[Xu1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000) [[Xu2]](https://ieeexplore.ieee.org/document/6932438) ([[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) [[SE toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[TensorFlow-SE]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese))
+    * LSTM : [[Weninger]](https://hal.inria.fr/hal-01163493/file/weninger_LVA15.pdf)
+    * CNN : [[Park]](https://arxiv.org/abs/1609.07132)([[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement))
+    * CRN : [[Tan]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf)([[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)); [[Zhao]](https://arxiv.org/pdf/1805.00579.pdf)([[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement))) 
 
   #### Complex domain
   * GCRN-complex
