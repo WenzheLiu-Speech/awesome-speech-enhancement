@@ -1,42 +1,6 @@
 # awesome-speech-enhancement
 a list of speech frontend, such as speech enhancement\speech seperation\sound source localization
 
-## speech seperation
-* Tasnet: time-domain audio separation network for real-time, single-channel speech separation
-[[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
-* Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation 
-[[Code]](https://github.com/kaituoxu/Conv-TasNet)
-* Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation
-[[Code1]](https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation) 
-[[Code2]](https://github.com/JusperLee/Dual-Path-RNN-Pytorch)
-* DANet:Deep Attractor Network (DANet) for single-channel speech separation 
-[[Code]](https://github.com/naplab/DANet)
-* TAC end-to-end microphone permutation and number invariant multi-channel speech separation 
-[[Code]](https://github.com/yluo42/TAC)
-* uPIT-for-speech-separation:Speech separation with utterance-level PIT 
-[[Code]](https://github.com/funcwj/uPIT-for-speech-separation)
-* LSTM_PIT_Speech_Separation 
-[[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
-* Deep-Clustering
-[[Code]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation)
-[[Code]](https://github.com/simonsuthers/Speech-Separation)
-[[Code]](https://github.com/funcwj/deep-clustering)
-
-* asteroid:The PyTorch-based audio source separation toolkit for researchers[[PDF]](https://arxiv.org/pdf/2005.04132.pdf)[[Code]](https://github.com/mpariente/asteroid)
-* sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
-* sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
-* ONSSEN: An Open-source Speech Separation and Enhancement Library 
-[[Code]](https://github.com/speechLabBcCuny/onssen)
-* music-source-separation 
-[[Code]](https://github.com/andabi/music-source-separation)
-* Singing-Voice-Separation 
-[[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
-* Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
-* FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
-* A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
-* Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
-
-
 ## speech enhancement
 ### Mask-based SE
 * IRM-based-Speech-Enhancement-using-LSTM
@@ -86,6 +50,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 ### Challenge
 * DNS Challenge [[DNS Interspeech2020]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/) [[DNS ICASSP2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2021/) [[DNS Interspeech2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2021/)
 
+### Other repositories
 * Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
 [[Link]](https://github.com/jonashaag/speech-enhancement)
 
@@ -135,6 +100,42 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * 麦克风声源定位 [[Code]](https://github.com/xiaoli1368/Microphone-sound-source-localization)
 * RTF-based-LCMV-GSC [[Code]](https://github.com/Tungluai/RTF-based-LCMV-GSC)
 * DOA [[Code]](https://github.com/wangwei2009/DOA)
+
+## speech seperation
+* Tasnet: time-domain audio separation network for real-time, single-channel speech separation
+[[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
+* Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation 
+[[Code]](https://github.com/kaituoxu/Conv-TasNet)
+* Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation
+[[Code1]](https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation) 
+[[Code2]](https://github.com/JusperLee/Dual-Path-RNN-Pytorch)
+* DANet:Deep Attractor Network (DANet) for single-channel speech separation 
+[[Code]](https://github.com/naplab/DANet)
+* TAC end-to-end microphone permutation and number invariant multi-channel speech separation 
+[[Code]](https://github.com/yluo42/TAC)
+* uPIT-for-speech-separation:Speech separation with utterance-level PIT 
+[[Code]](https://github.com/funcwj/uPIT-for-speech-separation)
+* LSTM_PIT_Speech_Separation 
+[[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
+* Deep-Clustering
+[[Code]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation)
+[[Code]](https://github.com/simonsuthers/Speech-Separation)
+[[Code]](https://github.com/funcwj/deep-clustering)
+
+* asteroid:The PyTorch-based audio source separation toolkit for researchers[[PDF]](https://arxiv.org/pdf/2005.04132.pdf)[[Code]](https://github.com/mpariente/asteroid)
+* sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
+* sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
+* ONSSEN: An Open-source Speech Separation and Enhancement Library 
+[[Code]](https://github.com/speechLabBcCuny/onssen)
+* music-source-separation 
+[[Code]](https://github.com/andabi/music-source-separation)
+* Singing-Voice-Separation 
+[[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
+* Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
+* FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
+* A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
+* Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
+
 
 ## Sound Event Detection
 * sed_eval - Evaluation toolbox for Sound Event Detection 
