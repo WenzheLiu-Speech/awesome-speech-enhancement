@@ -2,7 +2,7 @@
 a list of speech frontend, such as speech enhancement\speech seperation\sound source localization
 
 ## speech enhancement
-### Mask-based SE
+### Mask 
 * IRM-based-Speech-Enhancement-using-LSTM
 [[Code]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM)
 * nn-irm
@@ -11,7 +11,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * Deep-Learning-for-Speech-Enhancement 
 [[Code]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
-### Magnitude spectrogram-based SE
+### Magnitude spectrogram
 * RNNoise [[Code]](https://github.com/xiph/rnnoise)
 * DNN-Speech-enhancement-demo-tool [[Code]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)
 * sednn:deep_learning_for_speech_enhancement_keras_python 
@@ -26,12 +26,15 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/JupiterEthan/CRN-causal)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf)
 * A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement [[Code]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) [[PDF]](https://arxiv.org/pdf/1805.00579.pdf)
 
-### Complex domain-based SE
+### Complex domain
 * GCRN-complex
 [[Code]](https://github.com/JupiterEthan/GCRN-complex)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)
 * DC-UNet [[Code]](https://github.com/chanil1218/DCUnet.pytorch)
-* DCCRN [[Code]](https://github.com/huyanxin/DeepComplexCRN)
-* PHASEN[[Code]](https://github.com/huyanxin/phasen)
+* DCCRN [[Code]](https://github.com/huyanxin/DeepComplexCRN) [[PDF]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf)
+* PHASEN[[Code]](https://github.com/huyanxin/phasen) [[PDF]](https://arxiv.org/abs/1911.04697)
+
+### Time domain
+* facebook denoiser [[Code]](https://github.com/facebookresearch/denoiser) [[PDF]](https://arxiv.org/abs/2006.12847)
 
 ### GAN
 * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
