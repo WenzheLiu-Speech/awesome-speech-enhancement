@@ -38,39 +38,53 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 
 
 ## speech enhancement
-* Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
-[[Link]](https://github.com/jonashaag/speech-enhancement)
+### Mask-based SE
 * IRM-based-Speech-Enhancement-using-LSTM
 [[Code]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM)
 * nn-irm
 [[Code]](https://github.com/zhaoforever/nn-irm)
-* CRN-causal
-[[Code]](https://github.com/JupiterEthan/CRN-causal)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf)
-* GCRN-complex
-[[Code]](https://github.com/JupiterEthan/GCRN-complex)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)
-* Speech Enhancement Using a Two-Stage Network for an Efficient Boosting Strategy
-[[Code]](https://github.com/jtkim-kaist/Speech-enhancement)[[PDF]](https://ieeexplore.ieee.org/document/8668449)
-* SETK: Speech Enhancement Tools integrated with Kaldi 
-[[Code]](https://github.com/funcwj/setk)
-* sednn:deep_learning_for_speech_enhancement_keras_python 
-[[Code]](https://github.com/yongxuUSTC/sednn)
-* Speech_Enhancement_DNN_NMF 
-[[Code]](https://github.com/eesungkim/Speech_Enhancement_DNN_NMF)
+* rnn-speech-denoising [[Code]](https://github.com/amaas/rnn-speech-denoising)
 * Deep-Learning-for-Speech-Enhancement 
 [[Code]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
+
+### Magnitude spectrogram-based SE
+* DNN-Speech-enhancement-demo-tool [[Code]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)
+* sednn:deep_learning_for_speech_enhancement_keras_python 
+[[Code]](https://github.com/yongxuUSTC/sednn)
+* DNN-SpeechEnhancement [[Code]](https://github.com/hyli666/DNN-SpeechEnhancement)
+* speech enhancement toolkit[[Code]](https://github.com/jtkim-kaist/Speech-enhancement)
+* Speech Enhancement Using a Two-Stage Network for an Efficient Boosting Strategy
+[[Code]](https://github.com/jtkim-kaist/Speech-enhancement)[[PDF]](https://ieeexplore.ieee.org/document/8668449)
+* TensorFlow-speech-enhancement-Chinese [[Code]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
+* CNN-for-single-channel-speech-enhancement [[Code]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
+* CRN-causal
+[[Code]](https://github.com/JupiterEthan/CRN-causal)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf)
+* A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement [[Code]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) [[PDF]](https://arxiv.org/pdf/1805.00579.pdf)
+
+### Complex domain-based SE
+* GCRN-complex
+[[Code]](https://github.com/JupiterEthan/GCRN-complex)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)
+* DC-UNet
+* DCCRN
+* PHASEN[[Code]](https://github.com/huyanxin/phasen)
+
+### GAN
+* segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
+
+
+### DNN with traditional SE
+
+
+### NMF
+* Speech_Enhancement_DNN_NMF 
+[[Code]](https://github.com/eesungkim/Speech_Enhancement_DNN_NMF)
 * gcc-nmf:Real-time GCC-NMF Blind Speech Separation and Enhancement 
 [[Code]](https://github.com/seanwood/gcc-nmf)
-* TensorFlow-speech-enhancement-Chinese [[Code]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
-* DNN-Speech-enhancement-demo-tool [[Code]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)
-* CNN-for-single-channel-speech-enhancement [[Code]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
-* rnn-speech-denoising [[Code]](https://github.com/amaas/rnn-speech-denoising)
-* DNN-SpeechEnhancement [[Code]](https://github.com/hyli666/DNN-SpeechEnhancement)
-* segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
-* PHASEN[[Code]](https://github.com/huyanxin/phasen)
-* TCNSE [[Code]](https://github.com/ykoyama58/tcnse)
-* pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
-* A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement [[Code]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) [[PDF]](https://arxiv.org/pdf/1805.00579.pdf)
-* speech enhancement toolkit[[Code]](https://github.com/jtkim-kaist/Speech-enhancement)
+
+
+
+* Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
+[[Link]](https://github.com/jonashaag/speech-enhancement)
 
 ## dereverberation
 * dereverberation Single-Channel Dereverberation in Matlab 
@@ -143,6 +157,9 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * ROOMSIM:binaural image source simulation [[Code]](https://github.com/Wenzhe-Liu/ROOMSIM)
 * binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
 * PESQ [[Code]](https://github.com/vBaiCai/python-pesq)
+* SETK: Speech Enhancement Tools integrated with Kaldi 
+[[Code]](https://github.com/funcwj/setk)
+* pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
 
 ## reports
 * CCF语音对话与听觉专业组语音对话与听觉前沿研讨会[[Link]](https://www.bilibili.com/video/BV1MV411k7iJ)
