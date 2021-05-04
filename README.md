@@ -48,6 +48,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
 ### Magnitude spectrogram-based SE
+* RNNoise [[Code]](https://github.com/xiph/rnnoise)
 * DNN-Speech-enhancement-demo-tool [[Code]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)
 * sednn:deep_learning_for_speech_enhancement_keras_python 
 [[Code]](https://github.com/yongxuUSTC/sednn)
@@ -74,7 +75,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * Hifigan-denoiser [[Code]](https://github.com/rishikksh20/hifigan-denoiser)
 
 ### DNN with traditional SE
-
+* DeepXi [[Code]](https://github.com/anicolson/DeepXi)
 
 ### NMF
 * Speech_Enhancement_DNN_NMF 
