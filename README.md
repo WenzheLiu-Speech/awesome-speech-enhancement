@@ -64,13 +64,14 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 ### Complex domain-based SE
 * GCRN-complex
 [[Code]](https://github.com/JupiterEthan/GCRN-complex)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)
-* DC-UNet
-* DCCRN
+* DC-UNet [[Code]](https://github.com/chanil1218/DCUnet.pytorch)
+* DCCRN [[Code]](https://github.com/huyanxin/DeepComplexCRN)
 * PHASEN[[Code]](https://github.com/huyanxin/phasen)
 
 ### GAN
 * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
-
+* MetricGAN [[Code]](https://github.com/JasonSWFu/MetricGAN)
+* Hifigan-denoiser [[Code]](https://github.com/rishikksh20/hifigan-denoiser)
 
 ### DNN with traditional SE
 
