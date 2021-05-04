@@ -44,6 +44,10 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM)
 * nn-irm
 [[Code]](https://github.com/zhaoforever/nn-irm)
+* CRN-causal
+[[Code]](https://github.com/JupiterEthan/CRN-causal)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf)
+* GCRN-complex
+[[Code]](https://github.com/JupiterEthan/GCRN-complex)[[PDF]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf)
 * Speech Enhancement Using a Two-Stage Network for an Efficient Boosting Strategy
 [[Code]](https://github.com/jtkim-kaist/Speech-enhancement)[[PDF]](https://ieeexplore.ieee.org/document/8668449)
 * SETK: Speech Enhancement Tools integrated with Kaldi 
