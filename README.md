@@ -40,8 +40,8 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
   [[Code]](https://github.com/seanwood/gcc-nmf)
 
   #### Multi-stage
-  * DTLN [[Code]](https://github.com/breizhn/DTLN)
-
+  * [Westhausen](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2631.pdf) ([[DTLN]](https://github.com/breizhn/DTLN))
+  * [Xu](http://www.cs.columbia.edu/cg/listen_to_the_silence/paper.pdf) ([[LSS]](https://github.com/henryxrl/Listening-to-Sound-of-Silence-for-Speech-Denoising))
   #### Data collection
   * [Kashyap](https://arxiv.org/pdf/2104.03838.pdf)([[Noise2Noise]](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data))
   
@@ -79,6 +79,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * Beamforming-for-speech-enhancement [[Code]](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement)
 * deepBeam [[Code]](https://github.com/auspicious3000/deepbeam)
 * NN_MASK [[Code]](https://github.com/ZitengWang/nn_mask)
+* Cone-of-Silence [[Code]](https://github.com/vivjay30/Cone-of-Silence)
 -----------------------------------------------------------------------
 * binauralLocalization 
 [[Code]](https://github.com/nicolasobin/binauralLocalization)
@@ -149,6 +150,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/sharathadavanne/seld-net)
 
 ## Tools
+* APS:A workspace for single/multi-channel speech recognition & enhancement & separation.  [[Code]](https://github.com/funcwj/aps)
 * AKtools:the open software toolbox for signal acquisition, processing, and inspection in acoustics [[SVN Code]](https://svn.ak.tu-berlin.de/svn/AKtools)(username: aktools; password: ak)
 * separation_data_preparation[[Code]](https://github.com/YongyuG/separation_data_preparation)
 * MatlabToolbox [[Code]](https://github.com/IoSR-Surrey/MatlabToolbox)
