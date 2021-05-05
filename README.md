@@ -22,12 +22,14 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 
   #### GAN
   * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
+  * relativisticgan [[Code]](https://github.com/deepakbaby/se_relativisticgan)
   * MetricGAN [[Code]](https://github.com/JasonSWFu/MetricGAN)
   * Hifigan-denoiser [[Code]](https://github.com/rishikksh20/hifigan-denoiser)
 
   #### DNN with traditional SE
-  * DeepXi [[Code]](https://github.com/anicolson/DeepXi)
-
+  * [Nicolson](https://arxiv.org/abs/1906.07319)([[DeepXi]](https://github.com/anicolson/DeepXi))
+  * [Li](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf)([[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion))
+  
   #### Subband SE
   * FullSubNet [[Code]](https://github.com/haoxiangsnr/FullSubNet)
 
@@ -66,6 +68,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * <font color=red>MASP</font>:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
 * BeamformingSpeechEnhancer 
 [[Code]](https://github.com/hkmogul/BeamformingSpeechEnhancer)
+* steernet [[Code]](https://github.com/FrancoisGrondin/steernet)
 * DNN_Localization_And_Separation 
 [[Code]](https://github.com/shaharhoch/DNN_Localization_And_Separation)
 * nn-gev:Neural network supported GEV beamformer<font color=red>CHiME3</font> [[Code]](https://github.com/fgnt/nn-gev)
