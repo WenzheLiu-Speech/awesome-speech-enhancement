@@ -40,7 +40,9 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
   #### Multi-stage
   * DTLN [[Code]](https://github.com/breizhn/DTLN)
 
-
+  #### Data collection
+  * [Kashyap](https://arxiv.org/pdf/2104.03838.pdf)([[Noise2Noise]](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data))
+  
   #### Challenge
   * DNS Challenge [[DNS Interspeech2020]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/) [[DNS ICASSP2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2021/) [[DNS Interspeech2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2021/)
 
