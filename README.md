@@ -77,6 +77,8 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * pb_chime5:Speech enhancement system for the <font color=red>CHiME-5</font> dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
 * beamformit:麦克风阵列算法 [[Code]](https://github.com/592595/beamformit)
 * Beamforming-for-speech-enhancement [[Code]](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement)
+* deepBeam [[Code]](https://github.com/auspicious3000/deepbeam)
+* NN_MASK [[Code]](https://github.com/ZitengWang/nn_mask)
 -----------------------------------------------------------------------
 * binauralLocalization 
 [[Code]](https://github.com/nicolasobin/binauralLocalization)
