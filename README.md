@@ -8,11 +8,11 @@ https://github.com/topics/beamforming
 -->
 
 ## Table of Contents
-- [Speech Enhancement](#Speech Enhancement)
+- [Speech Enhancement](#SpeechEnhancement)
 - [Dereverberation](#Dereverberation)
-- [Speech Seperation](#Speech Seperation (single channel))
-- [Array Signal Processing](#Array Signal Processing)
-- [Sound Event Detection](#Sound Event Detection)
+- [Speech Seperation](#SpeechSeperation(singlechannel))
+- [Array Signal Processing](#ArraySignalProcessing)
+- [Sound Event Detection](#SoundEventDetection)
 - [Tools](#Tools)
 - [Resources](#Resources)
 
@@ -23,12 +23,14 @@ https://github.com/topics/beamforming
   * On Training Targets for Supervised Speech Separation, Wang, 2014. [[Paper]](https://ieeexplore.ieee.org/document/6887314) [[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
   * A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement, Valin, 2018. [Paper](https://ieeexplore.ieee.org/document/8547084/) [[RNNoise]](https://github.com/xiph/rnnoise)
   * A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech, Valin, 2020. [Paper](https://arxiv.org/abs/2008.04259) [[PercepNet]](https://github.com/jzi040941/PercepNet)
-  
-  * Magnitude spectrogram mapping
-    * DNN : [Xu1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000) [Xu2](https://ieeexplore.ieee.org/document/6932438) ([[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) [[SE toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[TensorFlow-SE]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese))
-    * LSTM : [Weninger](https://hal.inria.fr/hal-01163493/file/weninger_LVA15.pdf)
-    * CNN : [Park](https://arxiv.org/abs/1609.07132) ([[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement))
-    * CRN : [Tan](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) ([[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)); [Zhao](https://arxiv.org/pdf/1805.00579.pdf) ([[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement))) 
+
+  #### Magnitude spectrogram mapping
+  * An Experimental Study on Speech Enhancement Based on Deep Neural Networks, Xu, 2014. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000)
+  * A Regression Approach to Speech Enhancement Based on Deep Neural Networks, Xu, 2014. [[Paper]](https://ieeexplore.ieee.org/document/6932438) [[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) [[SE toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[TensorFlow-SE]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
+  * Speech enhancement with LSTM recurrent neuralnetworks and its application to noise-robust ASR, Weninger, 2015. [[Paper]](https://hal.inria.fr/hal-01163493/file/weninger_LVA15.pdf)
+  * A Fully Convolutional Neural Network for Speech Enhancement, Park, 2016. [[Paper]](https://arxiv.org/abs/1609.07132) [[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
+  * A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement, Tan, 2018. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) [[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)
+  * Convolutional-Recurrent Neural Networks for Speech Enhancement, Zhao, 2018. [[Paper]](https://arxiv.org/pdf/1805.00579.pdf) [[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement)
 
   ### Complex spectrogram
   * complex spectrogram mapping : [Fu](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8168119&tag=1); [Tan](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) ([[GCRN]](https://github.com/JupiterEthan/GCRN-complex))
