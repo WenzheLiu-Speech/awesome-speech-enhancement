@@ -18,7 +18,7 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
   * Complex Ratio Masking : [Williamson](https://ieeexplore.ieee.org/abstract/document/7906509); [Chen](http://web.cse.ohio-state.edu/~wang.77/papers/Chen-Wang.jasa17.pdf); [Choi](https://arxiv.org/abs/2006.00687)
   
   #### Time domain
-  * [Defossez](https://arxiv.org/abs/2006.12847)([[facebookDenoiser]](https://github.com/facebookresearch/denoiser)); [Macartney](https://arxiv.org/pdf/1811.11307.pdf)([[WaveUNet]](https://github.com/YosukeSugiura/Wave-U-Net-for-Speech-Enhancement-NNabla)); [Guimarães](https://www.sciencedirect.com/science/article/pii/S0957417420304061)([[SEWUNet]](https://github.com/Hguimaraes/SEWUNet)); [Stoller](https://arxiv.org/abs/1806.03185)([[WaveUNet]](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)); [Pandey_AECNN](https://ieeexplore.ieee.org/document/8701652); [Ali](https://ieeexplore.ieee.org/document/9211072); [Pandey_TCNN](https://ieeexplore.ieee.org/document/8683634); [Pandey_DCN](https://ieeexplore.ieee.org/document/9372863); [Pandey_DPSARNN](https://arxiv.org/abs/2010.12713)
+  * [Defossez](https://arxiv.org/abs/2006.12847) ([[facebookDenoiser]](https://github.com/facebookresearch/denoiser)); [Macartney](https://arxiv.org/pdf/1811.11307.pdf) ([[WaveUNet]](https://github.com/YosukeSugiura/Wave-U-Net-for-Speech-Enhancement-NNabla)); [Guimarães](https://www.sciencedirect.com/science/article/pii/S0957417420304061) ([[SEWUNet]](https://github.com/Hguimaraes/SEWUNet)); [Stoller](https://arxiv.org/abs/1806.03185) ([[WaveUNet]](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)); [Pandey_AECNN](https://ieeexplore.ieee.org/document/8701652); [Ali](https://ieeexplore.ieee.org/document/9211072); [Pandey_TCNN](https://ieeexplore.ieee.org/document/8683634); [Pandey_DCN](https://ieeexplore.ieee.org/document/9372863); [Pandey_DPSARNN](https://arxiv.org/abs/2010.12713)
 
   #### GAN
   * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
@@ -27,8 +27,8 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
   * Hifigan-denoiser [[Code]](https://github.com/rishikksh20/hifigan-denoiser)
 
   #### DNN with traditional SE
-  * [Nicolson](https://arxiv.org/abs/1906.07319)([[DeepXi]](https://github.com/anicolson/DeepXi))
-  * [Li](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf)([[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion))
+  * [Nicolson](https://arxiv.org/abs/1906.07319) ([[DeepXi]](https://github.com/anicolson/DeepXi))
+  * [Li](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf) ([[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion))
   
   #### Subband SE
   * FullSubNet [[Code]](https://github.com/haoxiangsnr/FullSubNet)
