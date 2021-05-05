@@ -1,9 +1,27 @@
 # awesome-speech-enhancement
 a list of speech frontend, such as speech enhancement\speech seperation\sound source localization
+This repo summarizes the tutorials, datasets, papers, codes and tools for single-/multi-channel speech enhancement/speech seperation task. You are kindly invited to pull requests. 
+<!--TODO ...
+datasets...
+Tutorials...
+https://github.com/topics/beamforming>
+
+## Table of Contents
+- [Speech Enhancement](#Speech Enhancement)
+- [Dereverberation](#Dereverberation)
+- [Speech Seperation](#Speech Seperation (single channel))
+- [Array Signal Processing](#Array Signal Processing)
+- [Sound Event Detection](#Sound Event Detection)
+- [Tools](#Tools)
+- [Resources](#Resources)
+
 
 ## Speech Enhancement
-  #### Magnitude spectrogram
-  * IRM : [Wang](https://ieeexplore.ieee.org/document/6887314) ([[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)); [Valin1](https://ieeexplore.ieee.org/document/8547084/) ([[RNNoise]](https://github.com/xiph/rnnoise)); [Valin2](https://arxiv.org/abs/2008.04259) ([[PercepNet]](https://github.com/jzi040941/PercepNet))
+  ### Magnitude spectrogram
+  #### IRM 
+  * On Training Targets for Supervised Speech Separation, Wang, 2014. [[Paper]](https://ieeexplore.ieee.org/document/6887314) [[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
+  * A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement, Valin, 2018. [Paper](https://ieeexplore.ieee.org/document/8547084/) [[RNNoise]](https://github.com/xiph/rnnoise)
+  * A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech, Valin, 2020. [Paper](https://arxiv.org/abs/2008.04259) [[PercepNet]](https://github.com/jzi040941/PercepNet)
   
   * Magnitude spectrogram mapping
     * DNN : [Xu1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000) [Xu2](https://ieeexplore.ieee.org/document/6932438) ([[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) [[SE toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[TensorFlow-SE]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese))
@@ -11,44 +29,44 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
     * CNN : [Park](https://arxiv.org/abs/1609.07132) ([[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement))
     * CRN : [Tan](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) ([[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)); [Zhao](https://arxiv.org/pdf/1805.00579.pdf) ([[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement))) 
 
-  #### Complex spectrogram
+  ### Complex spectrogram
   * complex spectrogram mapping : [Fu](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8168119&tag=1); [Tan](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) ([[GCRN]](https://github.com/JupiterEthan/GCRN-complex))
   * complex neural network : [Choi](https://arxiv.org/abs/1903.03107) ([[DC-UNet]](https://github.com/chanil1218/DCUnet.pytorch)); [Hu](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) ([[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)); [Kim](https://ieeexplore.ieee.org/document/9053591) 
   * magnitude and phase : [Yin](https://arxiv.org/abs/1911.04697) ([[PHASEN]](https://github.com/huyanxin/phasen))
   * Complex Ratio Masking : [Williamson](https://ieeexplore.ieee.org/abstract/document/7906509); [Chen](http://web.cse.ohio-state.edu/~wang.77/papers/Chen-Wang.jasa17.pdf); [Choi](https://arxiv.org/abs/2006.00687)
   
-  #### Time domain
+  ### Time domain
   * [Defossez](https://arxiv.org/abs/2006.12847) ([[facebookDenoiser]](https://github.com/facebookresearch/denoiser)); [Macartney](https://arxiv.org/pdf/1811.11307.pdf) ([[WaveUNet]](https://github.com/YosukeSugiura/Wave-U-Net-for-Speech-Enhancement-NNabla)); [Guimarães](https://www.sciencedirect.com/science/article/pii/S0957417420304061) ([[SEWUNet]](https://github.com/Hguimaraes/SEWUNet)); [Stoller](https://arxiv.org/abs/1806.03185) ([[WaveUNet]](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)); [Pandey_AECNN](https://ieeexplore.ieee.org/document/8701652); [Ali](https://ieeexplore.ieee.org/document/9211072); [Pandey_TCNN](https://ieeexplore.ieee.org/document/8683634); [Pandey_DCN](https://ieeexplore.ieee.org/document/9372863); [Pandey_DPSARNN](https://arxiv.org/abs/2010.12713)
 
-  #### GAN
+  ### GAN
   * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
   * relativisticgan [[Code]](https://github.com/deepakbaby/se_relativisticgan)
   * MetricGAN [[Code]](https://github.com/JasonSWFu/MetricGAN)
   * Hifigan-denoiser [[Code]](https://github.com/rishikksh20/hifigan-denoiser)
 
-  #### DNN with traditional SE
+  ### DNN with traditional SE
   * [Nicolson](https://arxiv.org/abs/1906.07319) ([[DeepXi]](https://github.com/anicolson/DeepXi))
   * [Li](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf) ([[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion))
   
-  #### Subband SE
+  ### Subband SE
   * FullSubNet [[Code]](https://github.com/haoxiangsnr/FullSubNet)
 
-  #### NMF
+  ### NMF
   * Speech_Enhancement_DNN_NMF 
   [[Code]](https://github.com/eesungkim/Speech_Enhancement_DNN_NMF)
   * gcc-nmf:Real-time GCC-NMF Blind Speech Separation and Enhancement 
   [[Code]](https://github.com/seanwood/gcc-nmf)
 
-  #### Multi-stage
+  ### Multi-stage
   * [Westhausen](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2631.pdf) ([[DTLN]](https://github.com/breizhn/DTLN))
   * [Xu](http://www.cs.columbia.edu/cg/listen_to_the_silence/paper.pdf) ([[LSS]](https://github.com/henryxrl/Listening-to-Sound-of-Silence-for-Speech-Denoising))
-  #### Data collection
+  ### Data collection
   * [Kashyap](https://arxiv.org/pdf/2104.03838.pdf)([[Noise2Noise]](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data))
   
-  #### Challenge
+  ### Challenge
   * DNS Challenge [[DNS Interspeech2020]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/) [[DNS ICASSP2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2021/) [[DNS Interspeech2021]](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2021/)
 
-  #### Other repositories
+  ### Other repositories
   * Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
   [[Link]](https://github.com/jonashaag/speech-enhancement)
 
@@ -64,6 +82,37 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * nara_wpe:Different implementations of "Weighted Prediction Error" for speech dereverberation [[Code]](https://github.com/fgnt/nara_wpe)
 * Dereverberation-toolkit-for-REVERB-challenge [[Code]](https://github.com/hshi-speech/Dereverberation-toolkit-for-REVERB-challenge)
 
+## Speech Seperation (single channel)
+* Tasnet: time-domain audio separation network for real-time, single-channel speech separation
+[[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
+* Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation 
+[[Code]](https://github.com/kaituoxu/Conv-TasNet)
+* Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation
+[[Code1]](https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation) 
+[[Code2]](https://github.com/JusperLee/Dual-Path-RNN-Pytorch)
+* DANet:Deep Attractor Network (DANet) for single-channel speech separation 
+[[Code]](https://github.com/naplab/DANet)
+* TAC end-to-end microphone permutation and number invariant multi-channel speech separation 
+[[Code]](https://github.com/yluo42/TAC)
+* uPIT-for-speech-separation:Speech separation with utterance-level PIT 
+[[Code]](https://github.com/funcwj/uPIT-for-speech-separation)
+* LSTM_PIT_Speech_Separation 
+[[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
+* Deep-Clustering
+[[Code]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation)
+[[Code]](https://github.com/simonsuthers/Speech-Separation)
+[[Code]](https://github.com/funcwj/deep-clustering)
+* sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
+* sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
+* music-source-separation 
+[[Code]](https://github.com/andabi/music-source-separation)
+* Singing-Voice-Separation 
+[[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
+* Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
+* FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
+* A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
+* Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
+* 
 ## Array Signal Processing
 * <font color=red>MASP</font>:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
 * BeamformingSpeechEnhancer 
@@ -103,37 +152,6 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 * RTF-based-LCMV-GSC [[Code]](https://github.com/Tungluai/RTF-based-LCMV-GSC)
 * DOA [[Code]](https://github.com/wangwei2009/DOA)
 
-## Speech Seperation
-* Tasnet: time-domain audio separation network for real-time, single-channel speech separation
-[[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
-* Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation 
-[[Code]](https://github.com/kaituoxu/Conv-TasNet)
-* Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation
-[[Code1]](https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation) 
-[[Code2]](https://github.com/JusperLee/Dual-Path-RNN-Pytorch)
-* DANet:Deep Attractor Network (DANet) for single-channel speech separation 
-[[Code]](https://github.com/naplab/DANet)
-* TAC end-to-end microphone permutation and number invariant multi-channel speech separation 
-[[Code]](https://github.com/yluo42/TAC)
-* uPIT-for-speech-separation:Speech separation with utterance-level PIT 
-[[Code]](https://github.com/funcwj/uPIT-for-speech-separation)
-* LSTM_PIT_Speech_Separation 
-[[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
-* Deep-Clustering
-[[Code]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation)
-[[Code]](https://github.com/simonsuthers/Speech-Separation)
-[[Code]](https://github.com/funcwj/deep-clustering)
-* sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
-* sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
-* music-source-separation 
-[[Code]](https://github.com/andabi/music-source-separation)
-* Singing-Voice-Separation 
-[[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
-* Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
-* FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
-* A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
-* Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
-
 
 ## Sound Event Detection
 * sed_eval - Evaluation toolbox for Sound Event Detection 
@@ -168,7 +186,9 @@ a list of speech frontend, such as speech enhancement\speech seperation\sound so
 [[Code]](https://github.com/funcwj/setk)
 * pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
 
-## reports
-* CCF语音对话与听觉专业组语音对话与听觉前沿研讨会[[Link]](https://www.bilibili.com/video/BV1MV411k7iJ)
+## Resources
+* Speech Signal Processing Course(ZH) [[Link]](https://github.com/veenveenveen/SpeechSignalProcessingCourse)
+* Speech Algorithms(ZH) [[Link]](https://github.com/Ryuk17/SpeechAlgorithms)
+* CCF语音对话与听觉专业组语音对话与听觉前沿研讨会(ZH) [[Link]](https://www.bilibili.com/video/BV1MV411k7iJ)
 
-<!--TODO https://github.com/topics/beamforming>
+
