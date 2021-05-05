@@ -36,7 +36,7 @@ https://github.com/topics/beamforming
   * Convolutional-Recurrent Neural Networks for Speech Enhancement, Zhao, 2018. [[Paper]](https://arxiv.org/pdf/1805.00579.pdf) [[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement)
 
   ### Complex domain
-  * Complex spectrogram enhancement by convolutional neural network with multi-metrics learning, Fu, 2017. [[Paper]](Complex spectrogram enhancement by convolutional neural network with multi-metrics learning); 
+  * Complex spectrogram enhancement by convolutional neural network with multi-metrics learning, Fu, 2017. [[Paper]](https://arxiv.org/pdf/1704.08504.pdf)
   * Learning Complex Spectral Mapping With GatedConvolutional Recurrent Networks forMonaural Speech Enhancement, Tan, 2020. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) [[GCRN]](https://github.com/JupiterEthan/GCRN-complex)
   * Phase-aware Speech Enhancement with Deep Complex U-Net, Choi, 2019. [[Paper]](https://arxiv.org/abs/1903.03107) [[DC-UNet]](https://github.com/chanil1218/DCUnet.pytorch)
   * DCCRN: Deep Complex Convolution Recurrent Network for Phase-AwareSpeech Enhancement, Hu, 2020. [[Paper]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) [[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)
