@@ -21,25 +21,25 @@ https://github.com/topics/beamforming
   ### Magnitude spectrogram
   #### IRM 
   * On Training Targets for Supervised Speech Separation, Wang, 2014. [[Paper]](https://ieeexplore.ieee.org/document/6887314)  
-  * A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement, Valin, 2018. [Paper](https://ieeexplore.ieee.org/document/8547084/) [[RNNoise]](https://github.com/xiph/rnnoise)
-  * A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech, Valin, 2020. [Paper](https://arxiv.org/abs/2008.04259) [[PercepNet]](https://github.com/jzi040941/PercepNet)
+  * A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement, [Valin](https://github.com/jmvalin), 2018. [Paper](https://ieeexplore.ieee.org/document/8547084/) [[RNNoise]](https://github.com/xiph/rnnoise)
+  * A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech, [Valin](https://github.com/jmvalin), 2020. [Paper](https://arxiv.org/abs/2008.04259) [[PercepNet]](https://github.com/jzi040941/PercepNet)
   * Other IRM-based SE repositories: [[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
   #### Magnitude spectrogram mapping
-  * An Experimental Study on Speech Enhancement Based on Deep Neural Networks, Xu, 2014. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000)
-  * A Regression Approach to Speech Enhancement Based on Deep Neural Networks, Xu, 2014. [[Paper]](https://ieeexplore.ieee.org/document/6932438) [[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) 
+  * An Experimental Study on Speech Enhancement Based on Deep Neural Networks, [Xu](https://github.com/yongxuUSTC), 2014. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000)
+  * A Regression Approach to Speech Enhancement Based on Deep Neural Networks, [Xu](https://github.com/yongxuUSTC), 2014. [[Paper]](https://ieeexplore.ieee.org/document/6932438) [[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) 
   * Other DNN magnitude spectrum mapping-based SE repositories: [[SE toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[TensorFlow-SE]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
   * Speech enhancement with LSTM recurrent neuralnetworks and its application to noise-robust ASR, Weninger, 2015. [[Paper]](https://hal.inria.fr/hal-01163493/file/weninger_LVA15.pdf)
   * Long short-term memory for speaker generalizationin supervised speech separation, Chen, 2017. [[Paper]](http://web.cse.ohio-state.edu/~wang.77/papers/Chen-Wang.jasa17.pdf)
   * A Fully Convolutional Neural Network for Speech Enhancement, Park, 2016. [[Paper]](https://arxiv.org/abs/1609.07132) [[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
-  * A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement, Tan, 2018. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) [[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)
+  * A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement, [Tan](https://github.com/JupiterEthan), 2018. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) [[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)
   * Convolutional-Recurrent Neural Networks for Speech Enhancement, Zhao, 2018. [[Paper]](https://arxiv.org/pdf/1805.00579.pdf) [[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement)
 
   ### Complex domain
   * Complex spectrogram enhancement by convolutional neural network with multi-metrics learning, Fu, 2017. [[Paper]](https://arxiv.org/pdf/1704.08504.pdf)
-  * Learning Complex Spectral Mapping With GatedConvolutional Recurrent Networks forMonaural Speech Enhancement, Tan, 2020. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) [[GCRN]](https://github.com/JupiterEthan/GCRN-complex)
+  * Learning Complex Spectral Mapping With GatedConvolutional Recurrent Networks forMonaural Speech Enhancement, [Tan](https://github.com/JupiterEthan), 2020. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) [[GCRN]](https://github.com/JupiterEthan/GCRN-complex)
   * Phase-aware Speech Enhancement with Deep Complex U-Net, Choi, 2019. [[Paper]](https://arxiv.org/abs/1903.03107) [[DC-UNet]](https://github.com/chanil1218/DCUnet.pytorch)
-  * DCCRN: Deep Complex Convolution Recurrent Network for Phase-AwareSpeech Enhancement, Hu, 2020. [[Paper]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) [[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)
+  * DCCRN: Deep Complex Convolution Recurrent Network for Phase-AwareSpeech Enhancement, [Hu](https://github.com/huyanxin), 2020. [[Paper]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) [[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)
   * T-GSA: Transformer with Gaussian-Weighted Self-Attention for Speech Enhancement, Kim, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053591) 
   * PHASEN: A Phase-and-Harmonics-Aware Speech Enhancement Network, Yin, 2019. [[Paper]](https://arxiv.org/abs/1911.04697) [[PHASEN]](https://github.com/huyanxin/phasen)
   * Time-Frequency Masking in the Complex Domain for Speech Dereverberation and Denoising, Williamson, 2017. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7906509)
@@ -49,11 +49,12 @@ https://github.com/topics/beamforming
   * Real Time Speech Enhancement in the Waveform Domain, Defossez, 2020. [[Paper]](https://arxiv.org/abs/2006.12847) [[facebookDenoiser]](https://github.com/facebookresearch/denoiser)
   * Improved Speech Enhancement with the Wave-U-Net, Macartney, 2018. [[Paper]](https://arxiv.org/pdf/1811.11307.pdf) [[WaveUNet]](https://github.com/YosukeSugiura/Wave-U-Net-for-Speech-Enhancement-NNabla) 
   * Monaural speech enhancement through deep wave-U-net, Guimarães, 2020. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417420304061) [[SEWUNet]](https://github.com/Hguimaraes/SEWUNet) 
-  * A New Framework for CNN-Based Speech Enhancement in the Time Domain, Pandey, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8701652) 
+  * A New Framework for CNN-Based Speech Enhancement in the Time Domain, [Pandey](https://github.com/ashutosh620), 2019. [[Paper]](https://ieeexplore.ieee.org/document/8701652) 
   * Speech Enhancement Using Dilated Wave-U-Net: an Experimental Analysis, Ali, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9211072)
-  * TCNN: Temporal Convolutional Neural Network for Real-time Speech Enhancement in the Time Domain, Pandey, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8683634)
-  * Dense CNN With Self-Attention for Time-Domain Speech Enhancement, Pandey, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9372863)
-  * Dual-path Self-Attention RNN for Real-Time Speech Enhancement, Pandey, 2021. [[Paper]](https://arxiv.org/abs/2010.12713)
+  * TCNN: Temporal Convolutional Neural Network for Real-time Speech Enhancement in the Time Domain, [Pandey](https://github.com/ashutosh620), 2019. [[Paper]](https://ieeexplore.ieee.org/document/8683634)
+  * Densely Connected Neural Network with Dilated Convolutions for Real-Time Speech Enhancement in the Time Domain, [Pandey](https://github.com/ashutosh620), 2020. [[Paper]](https://ashutosh620.github.io/files/DDAEC_ICASSP_2020.pdf) [[DDAEC]](https://github.com/ashutosh620/DDAEC)
+  * Dense CNN With Self-Attention for Time-Domain Speech Enhancement, [Pandey](https://github.com/ashutosh620), 2021. [[Paper]](https://ieeexplore.ieee.org/document/9372863)
+  * Dual-path Self-Attention RNN for Real-Time Speech Enhancement, [Pandey](https://github.com/ashutosh620), 2021. [[Paper]](https://arxiv.org/abs/2010.12713)
 
   ### GAN
   * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
