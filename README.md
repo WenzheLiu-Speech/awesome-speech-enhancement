@@ -2,24 +2,23 @@
 a list of speech frontend, such as speech enhancement\speech seperation\sound source localization
 
 ## Speech Enhancement
-  #### Mask 
+  #### Magnitude spectrogram
   * IRM : [Wang](https://ieeexplore.ieee.org/document/6887314) ([[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)); [Valin1](https://ieeexplore.ieee.org/document/8547084/) ([[RNNoise]](https://github.com/xiph/rnnoise)); [Valin2](https://arxiv.org/abs/2008.04259) ([[PercepNet]](https://github.com/jzi040941/PercepNet))
-  * Complex Ratio Masking : [Williamson](https://ieeexplore.ieee.org/abstract/document/7906509)
-
-  #### Mapping 
+  
   * Magnitude spectrogram mapping
     * DNN : [Xu1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000) [Xu2](https://ieeexplore.ieee.org/document/6932438) ([[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) [[SE toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[TensorFlow-SE]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese))
     * LSTM : [Weninger](https://hal.inria.fr/hal-01163493/file/weninger_LVA15.pdf)
     * CNN : [Park](https://arxiv.org/abs/1609.07132) ([[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement))
     * CRN : [Tan](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) ([[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)); [Zhao](https://arxiv.org/pdf/1805.00579.pdf) ([[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement))) 
 
-  * Complex domain
-    * complex szpectrogram mazpping : [Tan](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) ([[GCRN]](https://github.com/JupiterEthan/GCRN-complex))
-    * complex neural network : [Choi](https://arxiv.org/abs/1903.03107) ([[DC-UNet]](https://github.com/chanil1218/DCUnet.pytorch)); [Hu](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) ([[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)) 
-    * magnitude and phase : [Yin](https://arxiv.org/abs/1911.04697) ([[PHASEN]](https://github.com/huyanxin/phasen))
-
+  #### Complex spectrogram
+  * complex spectrogram mapping : [Fu](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8168119&tag=1); [Tan](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) ([[GCRN]](https://github.com/JupiterEthan/GCRN-complex))
+  * complex neural network : [Choi](https://arxiv.org/abs/1903.03107) ([[DC-UNet]](https://github.com/chanil1218/DCUnet.pytorch)); [Hu](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) ([[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)); [Kim](https://ieeexplore.ieee.org/document/9053591) 
+  * magnitude and phase : [Yin](https://arxiv.org/abs/1911.04697) ([[PHASEN]](https://github.com/huyanxin/phasen))
+  * Complex Ratio Masking : [Williamson](https://ieeexplore.ieee.org/abstract/document/7906509); [Chen](http://web.cse.ohio-state.edu/~wang.77/papers/Chen-Wang.jasa17.pdf); [Choi](https://arxiv.org/abs/2006.00687)
+  
   #### Time domain
-  * facebook denoiser [[Code]](https://github.com/facebookresearch/denoiser) [[PDF]](https://arxiv.org/abs/2006.12847)
+  * [Defossez](https://arxiv.org/abs/2006.12847)([[facebookDenoiser]](https://github.com/facebookresearch/denoiser)); [Macartney](https://arxiv.org/pdf/1811.11307.pdf)([[WaveUNet]](https://github.com/YosukeSugiura/Wave-U-Net-for-Speech-Enhancement-NNabla)); [Guimarães](https://www.sciencedirect.com/science/article/pii/S0957417420304061)([[SEWUNet]](https://github.com/Hguimaraes/SEWUNet)); [Stoller](https://arxiv.org/abs/1806.03185)([[WaveUNet]](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)); [Pandey_AECNN](https://ieeexplore.ieee.org/document/8701652); [Ali](https://ieeexplore.ieee.org/document/9211072); [Pandey_TCNN](https://ieeexplore.ieee.org/document/8683634); [Pandey_DCN](https://ieeexplore.ieee.org/document/9372863); [Pandey_DPSARNN](https://arxiv.org/abs/2010.12713)
 
   #### GAN
   * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
