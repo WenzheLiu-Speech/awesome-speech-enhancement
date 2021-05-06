@@ -32,7 +32,7 @@ https://github.com/topics/beamforming
   * Speech enhancement with LSTM recurrent neuralnetworks and its application to noise-robust ASR, Weninger, 2015. [[Paper]](https://hal.inria.fr/hal-01163493/file/weninger_LVA15.pdf)
   * Long short-term memory for speaker generalizationin supervised speech separation, Chen, 2017. [[Paper]](http://web.cse.ohio-state.edu/~wang.77/papers/Chen-Wang.jasa17.pdf)
   * Online Monaural Speech Enhancement using Delayed Subband LSTM, Li, 2020. [[Paper]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2091.pdf)
-  * FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement, [Hao](), 2020. [[Paper]](https://arxiv.org/pdf/2010.15508.pdf) [[FullSubNet]](https://github.com/haoxiangsnr/FullSubNet)
+  * FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement, [Hao](https://github.com/haoxiangsnr), 2020. [[Paper]](https://arxiv.org/pdf/2010.15508.pdf) [[FullSubNet]](https://github.com/haoxiangsnr/FullSubNet)
   * A Fully Convolutional Neural Network for Speech Enhancement, Park, 2016. [[Paper]](https://arxiv.org/abs/1609.07132) [[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
   * A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement, [Tan](https://github.com/JupiterEthan), 2018. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) [[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)
   * Convolutional-Recurrent Neural Networks for Speech Enhancement, Zhao, 2018. [[Paper]](https://arxiv.org/pdf/1805.00579.pdf) [[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement)
@@ -60,16 +60,16 @@ https://github.com/topics/beamforming
 
   ### GAN
   * SEGAN: Speech Enhancement Generative Adversarial Network, Pascual, 2017. [[Paper]](https://arxiv.org/pdf/1703.09452.pdfsegan_pytorch) [[SEGAN]](https://github.com/santi-pdp/segan_pytorch)
-  * SERGAN: Speech enhancement using relativistic generative adversarial networks with gradient penalty, Deepak Baby, 2019. [[Paper]](https://biblio.ugent.be/publication/8613639/file/8646769.pdf) [[SERGAN]](https://github.com/deepakbaby/se_relativisticgan)
-  * MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement, Fu, 2019. [[Paper]](https://arxiv.org/pdf/1905.04874.pdf) [[MetricGAN]](https://github.com/JasonSWFu/MetricGAN)
-  * MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement, Fu, 2019. [[Paper]](https://arxiv.org/abs/2104.03538) [[MetricGAN+]](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN)
+  * SERGAN: Speech enhancement using relativistic generative adversarial networks with gradient penalty, [Deepak Baby]((https://github.com/deepakbaby)), 2019. [[Paper]](https://biblio.ugent.be/publication/8613639/file/8646769.pdf) [[SERGAN]](https://github.com/deepakbaby/se_relativisticgan)
+  * MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement, [Fu]((https://github.com/JasonSWFu), 2019. [[Paper]](https://arxiv.org/pdf/1905.04874.pdf) [[MetricGAN]](https://github.com/JasonSWFu/MetricGAN)
+  * MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement, [Fu](https://github.com/JasonSWFu), 2019. [[Paper]](https://arxiv.org/abs/2104.03538) [[MetricGAN+]](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN)
   * HiFi-GAN: High-Fidelity Denoising and Dereverberation Based on Speech Deep Features in Adversarial Networks, Su, 2020. [[Paper]](https://arxiv.org/abs/2006.05694) [[HifiGAN]](https://github.com/rishikksh20/hifigan-denoiser)
 
   ### DNN with traditional SE
   * Deep Xi as a Front-End for Robust Automatic Speech Recognition, [Nicolson](https://github.com/anicolson), 2019. [[Paper]](https://arxiv.org/abs/1906.07319) [[DeepXi]](https://github.com/anicolson/DeepXi)
   * Deep Residual-Dense Lattice Network for Speech Enhancement, [Nikzad](https://github.com/nick-nikzad), 2020. [[Paper]](https://arxiv.org/pdf/2002.12794.pdf) [[RDL-SE]](https://github.com/nick-nikzad/RDL-SE)
   * DeepMMSE: A Deep Learning Approach to MMSE-based Noise Power Spectral Density Estimation, [Zhang](https://github.com/yunzqq), 2020. [[Paper]](https://ieeexplore.ieee.org/document/9066933)
-  * Using Generalized Gaussian Distributions to Improve Regression Error Modeling for Deep-Learning-Based Speech Enhancement, [Li](https://github.com/LiChaiUSTC), 2019. [[Paper](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf) [[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion)
+  * Using Generalized Gaussian Distributions to Improve Regression Error Modeling for Deep-Learning-Based Speech Enhancement, [Li](https://github.com/LiChaiUSTC), 2019. [[Paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf) [[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion)
 
   <!--### NMF
   * Speech_Enhancement_DNN_NMF 
@@ -78,10 +78,10 @@ https://github.com/topics/beamforming
     [[Code]](https://github.com/seanwood/gcc-nmf)-->
 
   ### Multi-stage
-  * Masking and Inpainting: A Two-Stage Speech Enhancement Approach for Low SNR and Non-Stationary Noise, Hao, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053188/)
+  * Masking and Inpainting: A Two-Stage Speech Enhancement Approach for Low SNR and Non-Stationary Noise, [Hao](https://github.com/haoxiangsnr), 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053188/)
   * A Joint Framework of Denoising Autoencoder and Generative Vocoder for Monaural Speech Enhancement, Du, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9082858)
-  * Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression, [Westhausen](https://github.com/breizhn), 2020. [[Paper](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2631.pdf) [[DTLN]](https://github.com/breizhn/DTLN)
-  * Listening to Sounds of Silence for Speech Denoising, [Xu](https://github.com/henryxrl), 2020. [[Paper]](http://www.cs.columbia.edu/cg/listen_to_the_silence/paper.pdf) ([[LSS]](https://github.com/henryxrl/Listening-to-Sound-of-Silence-for-Speech-Denoising))
+  * Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression, [Westhausen](https://github.com/breizhn), 2020. [[Paper]](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2631.pdf) [[DTLN]](https://github.com/breizhn/DTLN)
+  * Listening to Sounds of Silence for Speech Denoising, [Xu](https://github.com/henryxrl), 2020. [[Paper]](http://www.cs.columbia.edu/cg/listen_to_the_silence/paper.pdf) [[LSS]](https://github.com/henryxrl/Listening-to-Sound-of-Silence-for-Speech-Denoising)
   * ICASSP 2021 Deep Noise Suppression Challenge: Decoupling Magnitude and Phase Optimization with a Two-Stage Deep Network, [Li](https://github.com/Andong-Li-speech), 2021. [[Paper]](https://arxiv.org/abs/2102.04198)
   
   ### Data collection
