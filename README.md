@@ -36,7 +36,7 @@ https://github.com/topics/beamforming
   * Convolutional-Recurrent Neural Networks for Speech Enhancement, Zhao, 2018. [[Paper]](https://arxiv.org/pdf/1805.00579.pdf) [[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement)
 
   ### Complex domain
-  * Complex spectrogram enhancement by convolutional neural network with multi-metrics learning, Fu, 2017. [[Paper]](https://arxiv.org/pdf/1704.08504.pdf)
+  * Complex spectrogram enhancement by convolutional neural network with multi-metrics learning, [Fu](https://github.com/JasonSWFu), 2017. [[Paper]](https://arxiv.org/pdf/1704.08504.pdf)
   * Learning Complex Spectral Mapping With GatedConvolutional Recurrent Networks forMonaural Speech Enhancement, [Tan](https://github.com/JupiterEthan), 2020. [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang.taslp20.pdf) [[GCRN]](https://github.com/JupiterEthan/GCRN-complex)
   * Phase-aware Speech Enhancement with Deep Complex U-Net, Choi, 2019. [[Paper]](https://arxiv.org/abs/1903.03107) [[DC-UNet]](https://github.com/chanil1218/DCUnet.pytorch)
   * DCCRN: Deep Complex Convolution Recurrent Network for Phase-AwareSpeech Enhancement, [Hu](https://github.com/huyanxin), 2020. [[Paper]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) [[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)
@@ -57,10 +57,11 @@ https://github.com/topics/beamforming
   * Dual-path Self-Attention RNN for Real-Time Speech Enhancement, [Pandey](https://github.com/ashutosh620), 2021. [[Paper]](https://arxiv.org/abs/2010.12713)
 
   ### GAN
-  * segan_pytorch [[Code]](https://github.com/santi-pdp/segan_pytorch)
-  * relativisticgan [[Code]](https://github.com/deepakbaby/se_relativisticgan)
-  * MetricGAN [[Code]](https://github.com/JasonSWFu/MetricGAN)
-  * Hifigan-denoiser [[Code]](https://github.com/rishikksh20/hifigan-denoiser)
+  * SEGAN: Speech Enhancement Generative Adversarial Network, Pascual, 2017. [[Paper]](https://arxiv.org/pdf/1703.09452.pdfsegan_pytorch) [[SEGAN]](https://github.com/santi-pdp/segan_pytorch)
+  * SERGAN: Speech enhancement using relativistic generative adversarial networks with gradient penalty, Deepak Baby, 2019. [[Paper]](https://biblio.ugent.be/publication/8613639/file/8646769.pdf) [[SERGAN]](https://github.com/deepakbaby/se_relativisticgan)
+  * MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement, Fu, 2019. [[Paper]](https://arxiv.org/pdf/1905.04874.pdf) [[MetricGAN]](https://github.com/JasonSWFu/MetricGAN)
+  * MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement, Fu, 2019. [[Paper]](https://arxiv.org/abs/2104.03538) [[MetricGAN+]](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN)
+  * HiFi-GAN: High-Fidelity Denoising and Dereverberation Based on Speech Deep Features in Adversarial Networks, Su, 2020. [[Paper]](https://arxiv.org/abs/2006.05694) [[HifiGAN]](https://github.com/rishikksh20/hifigan-denoiser)
 
   ### DNN with traditional SE
   * [Nicolson](https://arxiv.org/abs/1906.07319) ([[DeepXi]](https://github.com/anicolson/DeepXi))
