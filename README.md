@@ -78,6 +78,7 @@ https://github.com/topics/beamforming
     [[Code]](https://github.com/seanwood/gcc-nmf)-->
 
   ### Multi-stage
+  * A Recursive Network with Dynamic Attention for Monaural Speech Enhancement, [Li](https://github.com/Andong-Li-speech), 2020. [[Paper]](https://arxiv.org/abs/2003.12973) [[DARCN]](https://github.com/Andong-Li-speech/DARCN)
   * Masking and Inpainting: A Two-Stage Speech Enhancement Approach for Low SNR and Non-Stationary Noise, [Hao](https://github.com/haoxiangsnr), 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053188/)
   * A Joint Framework of Denoising Autoencoder and Generative Vocoder for Monaural Speech Enhancement, Du, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9082858)
   * Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression, [Westhausen](https://github.com/breizhn), 2020. [[Paper]](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2631.pdf) [[DTLN]](https://github.com/breizhn/DTLN)
