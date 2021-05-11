@@ -65,11 +65,12 @@ https://github.com/topics/beamforming
   * MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement, [Fu](https://github.com/JasonSWFu), 2019. [[Paper]](https://arxiv.org/abs/2104.03538) [[MetricGAN+]](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN)
   * HiFi-GAN: High-Fidelity Denoising and Dereverberation Based on Speech Deep Features in Adversarial Networks, Su, 2020. [[Paper]](https://arxiv.org/abs/2006.05694) [[HifiGAN]](https://github.com/rishikksh20/hifigan-denoiser)
 
-  ### DNN with traditional SE
+  ### Hybrid SE 
   * Deep Xi as a Front-End for Robust Automatic Speech Recognition, [Nicolson](https://github.com/anicolson), 2019. [[Paper]](https://arxiv.org/abs/1906.07319) [[DeepXi]](https://github.com/anicolson/DeepXi)
   * Deep Residual-Dense Lattice Network for Speech Enhancement, [Nikzad](https://github.com/nick-nikzad), 2020. [[Paper]](https://arxiv.org/pdf/2002.12794.pdf) [[RDL-SE]](https://github.com/nick-nikzad/RDL-SE)
   * DeepMMSE: A Deep Learning Approach to MMSE-based Noise Power Spectral Density Estimation, [Zhang](https://github.com/yunzqq), 2020. [[Paper]](https://ieeexplore.ieee.org/document/9066933)
   * Using Generalized Gaussian Distributions to Improve Regression Error Modeling for Deep-Learning-Based Speech Enhancement, [Li](https://github.com/LiChaiUSTC), 2019. [[Paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf) [[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion)
+  * Speech Enhancement Using a DNN-Augmented Colored-Noise Kalman Filter, [Yu](https://github.com/Hongjiang-Yu), 2020. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167639320302831) [[DNN-Kalman]](https://github.com/Hongjiang-Yu/DNN_Kalman_Filter)
 
   <!--### NMF
   * Speech_Enhancement_DNN_NMF 
