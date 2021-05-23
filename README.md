@@ -144,6 +144,7 @@ https://github.com/topics/beamforming
 * MASP:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
 * BeamformingSpeechEnhancer 
 [[Code]](https://github.com/hkmogul/BeamformingSpeechEnhancer)
+* TSENet [[Code]](https://github.com/felixfuyihui/felixfuyihui.github.io)
 * steernet [[Code]](https://github.com/FrancoisGrondin/steernet)
 * DNN_Localization_And_Separation 
 [[Code]](https://github.com/shaharhoch/DNN_Localization_And_Separation)
