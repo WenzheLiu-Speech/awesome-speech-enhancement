@@ -98,17 +98,19 @@ https://github.com/topics/beamforming
     [[Link]](https://github.com/jonashaag/speech-enhancement)
 
 ## Dereverberation
-* dereverberation Single-Channel Dereverberation in Matlab 
-[[Code]](https://github.com/csd111/dereverberation)
-* speech_dereverbaration_using_lp_residual Single Channel Speech Dereverbaration using LP Residual 
-[[Code]](https://github.com/shamim-hussain/speech_dereverbaration_using_lp_residual)
-* dereverberate 
-[[Code]](https://github.com/matangover/dereverberate)
-* dereverberation-and-denoising:Supervised Speech Dereverberation in Noisy Environments using Exemplar-based Sparse Representations [[Code]](https://github.com/deepakbaby/dereverberation-and-denoising)
-* DNN_WPE [[Code]](https://github.com/nttcslab-sp/dnn_wpe)
-* nara_wpe:Different implementations of "Weighted Prediction Error" for speech dereverberation [[Code]](https://github.com/fgnt/nara_wpe)
-* Dereverberation-toolkit-for-REVERB-challenge [[Code]](https://github.com/hshi-speech/Dereverberation-toolkit-for-REVERB-challenge)
-
+### Traditional method
+  * SPENDRED [[Paper]](https://ieeexplore.ieee.org/document/7795155)
+  [[SPENDRED]](https://github.com/csd111/dereverberation)
+  * WPE(MCLP) [[Paper]](https://ieeexplore.ieee.org/document/6255769)[[nara-WPE]](https://github.com/fgnt/nara_wpe)
+  * LP Residual [[Paper]](https://ieeexplore.ieee.org/abstract/document/1621193) [[LP_residual]](https://github.com/shamim-hussain/speech_dereverbaration_using_lp_residual)
+  * dereverberate [[Paper]](https://www.aes.org/e-lib/browse.cfm?elib=15675) [[Code]](https://github.com/matangover/dereverberate)
+  * * NMF [[Paper]](https://ieeexplore.ieee.org/document/7471656/) [[NMF]](https://github.com/deepakbaby/dereverberation-and-denoising)
+### Hybrid method
+  * DNN_WPE [[Paper]](https://ieeexplore.ieee.org/document/7471656/) [[Code]](https://github.com/nttcslab-sp/dnn_wpe)
+### NN-based Derev
+  * Dereverberation-toolkit-for-REVERB-challenge [[Code]](https://github.com/hshi-speech/Dereverberation-toolkit-for-REVERB-challenge)
+  * SkipConvNet [[Paper]](https://arxiv.org/pdf/2007.09131.pdf) [[Code]](https://github.com/zehuachenImperial/SkipConvNet)
+  
 ## Speech Seperation (single channel)
 * Tasnet: time-domain audio separation network for real-time, single-channel speech separation
 [[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
