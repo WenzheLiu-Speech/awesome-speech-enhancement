@@ -98,6 +98,7 @@ https://github.com/topics/beamforming
   ### Other repositories
   * Collection of papers, datasets and tools on the topic of Speech Dereverberation and Speech Enhancement 
     [[Link]](https://github.com/jonashaag/speech-enhancement)
+  * nanahou's awesome speech enhancement [[Link]](https://github.com/nanahou/Awesome-Speech-Enhancement)
 
 ## Dereverberation
 ### Traditional method
@@ -113,27 +114,28 @@ https://github.com/topics/beamforming
   * Dereverberation-toolkit-for-REVERB-challenge [[Code]](https://github.com/hshi-speech/Dereverberation-toolkit-for-REVERB-challenge)
   * SkipConvNet [[Paper]](https://arxiv.org/pdf/2007.09131.pdf) [[Code]](https://github.com/zehuachenImperial/SkipConvNet)
 
-## Speech Seperation (single channel)
-* Tutorial speech separation [[Code]](https://github.com/gemengtju/Tutorial_Separation)
-* Tasnet: time-domain audio separation network for real-time, single-channel speech separation
-[[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
-* Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation 
-[[Code]](https://github.com/kaituoxu/Conv-TasNet)
-* Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation
-[[Code1]](https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation) 
-[[Code2]](https://github.com/JusperLee/Dual-Path-RNN-Pytorch)
-* DANet:Deep Attractor Network (DANet) for single-channel speech separation 
-[[Code]](https://github.com/naplab/DANet)
-* TAC end-to-end microphone permutation and number invariant multi-channel speech separation 
-[[Code]](https://github.com/yluo42/TAC)
-* uPIT-for-speech-separation:Speech separation with utterance-level PIT 
-[[Code]](https://github.com/funcwj/uPIT-for-speech-separation)
-* LSTM_PIT_Speech_Separation 
-[[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
-* Deep-Clustering
+## Speech Separation (single channel)
+* Tutorial speech separation, like awesome series [[Link]](https://github.com/gemengtju/Tutorial_Separation)
+### NN-based separation
+* 2015, Deep-Clustering:Discriminative embeddings for segmentation and separation, Hershey and Chen.[[Paper]](https://arxiv.org/abs/1508.04306)
 [[Code]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation)
 [[Code]](https://github.com/simonsuthers/Speech-Separation)
 [[Code]](https://github.com/funcwj/deep-clustering)
+* 2016, DANet:Deep Attractor Network (DANet) for single-channel speech separation, Chen.[[Paper]](https://arxiv.org/abs/1611.08930)
+[[Code]](https://github.com/naplab/DANet)
+* 2017, Multitalker speech separation with utterance-level permutation invariant training of deep recurrent, Yu.[[Paper]](https://ai.tencent.com/ailab/media/publications/Multi-talker_Speech_Separation_with_Utterance-level.pdf)
+[[Code]](https://github.com/funcwj/uPIT-for-speech-separation)
+* 2018, LSTM_PIT_Speech_Separation 
+[[Code]](https://github.com/pchao6/LSTM_PIT_Speech_Separation)
+* 2018, Tasnet: time-domain audio separation network for real-time, single-channel speech separation, Luo.[[Paper]](https://arxiv.org/abs/1711.00541v2)
+[[Code]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
+* 2019, Conv-TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation, Luo.[(Paper)](https://arxiv.org/pdf/1809.07454.pdf)
+[[Code]](https://github.com/kaituoxu/Conv-TasNet)
+* 2019, Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation, Luo.[[Paper]](https://arxiv.org/abs/1910.06379v1)
+[[Code1]](https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation) 
+[[Code2]](https://github.com/JusperLee/Dual-Path-RNN-Pytorch)
+* 2019, TAC end-to-end microphone permutation and number invariant multi-channel speech separation, Luo.[[Paper]](https://arxiv.org/abs/1910.14104) 
+[[Code]](https://github.com/yluo42/TAC)
 * sound separation(Google) [[Code]](https://github.com/google-research/sound-separation)
 * sound separation: Deep learning based speech source separation using Pytorch [[Code]](https://github.com/AppleHolic/source_separation)
 * music-source-separation 
@@ -141,6 +143,7 @@ https://github.com/topics/beamforming
 * Singing-Voice-Separation 
 [[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
 * Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
+### classic method
 * FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
 * A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
 * Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
