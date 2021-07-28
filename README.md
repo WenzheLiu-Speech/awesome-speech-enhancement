@@ -21,9 +21,9 @@ https://github.com/topics/beamforming
   ### Magnitude spectrogram
   #### spectral masking
   * 2014, On Training Targets for Supervised Speech Separation, Wang. [[Paper]](https://ieeexplore.ieee.org/document/6887314)  
-  * 2018, A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement, [Valin](https://github.com/jmvalin). [Paper](https://ieeexplore.ieee.org/document/8547084/) [[RNNoise]](https://github.com/xiph/rnnoise)
+  * 2018, A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement, [Valin](https://github.com/jmvalin). [[Paper]](https://ieeexplore.ieee.org/document/8547084/) [[RNNoise]](https://github.com/xiph/rnnoise)
   * 2020, A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech, [Valin](https://github.com/jmvalin). [Paper](https://arxiv.org/abs/2008.04259) [[PercepNet]](https://github.com/jzi040941/PercepNet)
-  * 2021, RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features. [Paper](https://arxiv.org/abs/2105.11813) [[RNNoise-Ex]](https://github.com/CedArctic/rnnoise-ex)
+  * 2021, RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features. [[Paper]](https://arxiv.org/abs/2105.11813) [[RNNoise-Ex]](https://github.com/CedArctic/rnnoise-ex)
   * Other IRM-based SE repositories: [[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
   #### spectral mapping
@@ -106,7 +106,7 @@ https://github.com/topics/beamforming
   * WPE(MCLP) [[Paper]](https://ieeexplore.ieee.org/document/6255769)[[nara-WPE]](https://github.com/fgnt/nara_wpe)
   * LP Residual [[Paper]](https://ieeexplore.ieee.org/abstract/document/1621193) [[LP_residual]](https://github.com/shamim-hussain/speech_dereverbaration_using_lp_residual)
   * dereverberate [[Paper]](https://www.aes.org/e-lib/browse.cfm?elib=15675) [[Code]](https://github.com/matangover/dereverberate)
-  * * NMF [[Paper]](https://ieeexplore.ieee.org/document/7471656/) [[NMF]](https://github.com/deepakbaby/dereverberation-and-denoising)
+  * NMF [[Paper]](https://ieeexplore.ieee.org/document/7471656/) [[NMF]](https://github.com/deepakbaby/dereverberation-and-denoising)
 ### Hybrid method
   * DNN_WPE [[Paper]](https://ieeexplore.ieee.org/document/7471656/) [[Code]](https://github.com/nttcslab-sp/dnn_wpe)
 ### NN-based Derev
@@ -142,7 +142,7 @@ https://github.com/topics/beamforming
 * Singing-Voice-Separation 
 [[Code]](https://github.com/Jeongseungwoo/Singing-Voice-Separation)
 * Comparison-of-Blind-Source-Separation-techniques[[Code]](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
-### classic method
+### BSS/ICA method
 * FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
 * A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
 * Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
