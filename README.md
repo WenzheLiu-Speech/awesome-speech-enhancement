@@ -16,28 +16,37 @@ https://github.com/topics/beamforming
 - [Tools](#Tools)
 - [Resources](#Resources)
 
-
 ## Speech_Enhancement
+
   ### Magnitude spectrogram
   #### spectral masking
   * 2014, On Training Targets for Supervised Speech Separation, Wang. [[Paper]](https://ieeexplore.ieee.org/document/6887314)  
   * 2018, A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement, [Valin](https://github.com/jmvalin). [[Paper]](https://ieeexplore.ieee.org/document/8547084/) [[RNNoise]](https://github.com/xiph/rnnoise) [[RNNoise16k]](https://github.com/YongyuG/rnnoise_16k)
   * 2020, A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech, [Valin](https://github.com/jmvalin). [Paper](https://arxiv.org/abs/2008.04259) [[PercepNet]](https://github.com/jzi040941/PercepNet)
+  * 2020, Online Monaural Speech Enhancement using Delayed Subband LSTM, Li. [[Paper]](https://arxiv.org/abs/2005.05037)
+  * 2020, FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement, [Hao](https://github.com/haoxiangsnr). [[Paper]](https://arxiv.org/pdf/2010.15508.pdf) [[FullSubNet]](https://github.com/haoxiangsnr/FullSubNet)
   * 2021, RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features. [[Paper]](https://arxiv.org/abs/2105.11813) [[RNNoise-Ex]](https://github.com/CedArctic/rnnoise-ex)
   * Other IRM-based SE repositories: [[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
   #### spectral mapping
   * 2014, An Experimental Study on Speech Enhancement Based on Deep Neural Networks, [Xu](https://github.com/yongxuUSTC). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000)
+
   * 2014, A Regression Approach to Speech Enhancement Based on Deep Neural Networks, [Xu](https://github.com/yongxuUSTC). [[Paper]](https://ieeexplore.ieee.org/document/6932438) [[sednn]](https://github.com/yongxuUSTC/sednn) [[DNN-SE-Xu]](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) [[DNN-SE-Li]](https://github.com/hyli666/DNN-SpeechEnhancement) 
+
   * Other DNN magnitude spectrum mapping-based SE repositories: [[SE toolkit]](https://github.com/jtkim-kaist/Speech-enhancement) [[TensorFlow-SE]](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese) [[UNetSE]](https://github.com/vbelz/Speech-enhancement)
+
   * 2015, Speech enhancement with LSTM recurrent neural networks and its application to noise-robust ASR, Weninger. [[Paper]](https://hal.inria.fr/hal-01163493/file/weninger_LVA15.pdf)
+
   * 2016, A Fully Convolutional Neural Network for Speech Enhancement, Park. [[Paper]](https://arxiv.org/abs/1609.07132) [[CNN4SE]](https://github.com/dtx525942103/CNN-for-single-channel-speech-enhancement)
+
   * 2017, Long short-term memory for speaker generalizationin supervised speech separation, Chen. [[Paper]](http://web.cse.ohio-state.edu/~wang.77/papers/Chen-Wang.jasa17.pdf)
+
   * 2018, A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement, [Tan](https://github.com/JupiterEthan). [[Paper]](https://web.cse.ohio-state.edu/~wang.77/papers/Tan-Wang1.interspeech18.pdf) [[CRN-Tan]](https://github.com/JupiterEthan/CRN-causal)
+
   * 2018, Convolutional-Recurrent Neural Networks for Speech Enhancement, Zhao. [[Paper]](https://arxiv.org/pdf/1805.00579.pdf) [[CRN-Hao]](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement)
-  * 2020, Online Monaural Speech Enhancement using Delayed Subband LSTM, Li. [[Paper]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2091.pdf)
-  * 2020, FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement, [Hao](https://github.com/haoxiangsnr). [[Paper]](https://arxiv.org/pdf/2010.15508.pdf) [[FullSubNet]](https://github.com/haoxiangsnr/FullSubNet)
-  
+
+    
+
   ### Complex domain
   * 2017, Complex spectrogram enhancement by convolutional neural network with multi-metrics learning, [Fu](https://github.com/JasonSWFu). [[Paper]](https://arxiv.org/pdf/1704.08504.pdf)
   * 2017, Time-Frequency Masking in the Complex Domain for Speech Dereverberation and Denoising, Williamson. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7906509)
