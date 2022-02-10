@@ -87,6 +87,8 @@ https://github.com/topics/beamforming
   * 2020, Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression, [Westhausen](https://github.com/breizhn). [[Paper]](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2631.pdf) [[DTLN]](https://github.com/breizhn/DTLN)
   * 2020, Listening to Sounds of Silence for Speech Denoising, [Xu](https://github.com/henryxrl). [[Paper]](http://www.cs.columbia.edu/cg/listen_to_the_silence/paper.pdf) [[LSS]](https://github.com/henryxrl/Listening-to-Sound-of-Silence-for-Speech-Denoising)
   * 2021, ICASSP 2021 Deep Noise Suppression Challenge: Decoupling Magnitude and Phase Optimization with a Two-Stage Deep Network, [Li](https://github.com/Andong-Li-speech). [[Paper]](https://arxiv.org/abs/2102.04198)
+  * 2022, Glance and Gaze: A Collaborative Learning Framework for Single-channel Speech Enhancement, [Li](https://github.com/Andong-Li-speech/GaGNet) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0003682X21005934)
+  * 2022, HGCN : harmonic gated compensation network for speech enhancement, [Wang](https://github.com/wangtianrui/HGCN). [[Paper]](https://arxiv.org/pdf/2201.12755.pdf)
 
   ### Data collection
   * [Kashyap](https://arxiv.org/pdf/2104.03838.pdf)([[Noise2Noise]](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data))
