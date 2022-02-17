@@ -242,4 +242,5 @@ https://github.com/topics/beamforming
 ## Resources
 * Speech Signal Processing Course(ZH) [[Link]](https://github.com/veenveenveen/SpeechSignalProcessingCourse)
 * Speech Algorithms(ZH) [[Link]](https://github.com/Ryuk17/SpeechAlgorithms)
+* Speech Resources[[Link]](https://github.com/ddlBoJack/Speech-Resources)
 * CCF语音对话与听觉专业组语音对话与听觉前沿研讨会(ZH) [[Link]](https://www.bilibili.com/video/BV1MV411k7iJ)
