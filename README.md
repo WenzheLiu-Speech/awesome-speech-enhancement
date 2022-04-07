@@ -56,6 +56,10 @@ https://github.com/topics/beamforming
   * 2020, DCCRN: Deep Complex Convolution Recurrent Network for Phase-AwareSpeech Enhancement, [Hu](https://github.com/huyanxin). [[Paper]](https://isca-speech.org/archive/Interspeech_2020/pdfs/2537.pdf) [[DCCRN]](https://github.com/huyanxin/DeepComplexCRN)
   * 2020, T-GSA: Transformer with Gaussian-Weighted Self-Attention for Speech Enhancement, Kim. [[Paper]](https://ieeexplore.ieee.org/document/9053591) 
   * 2020, Phase-aware Single-stage Speech Denoising and Dereverberation with U-Net, Choi. [[Paper]](https://arxiv.org/abs/2006.00687)
+  * 2021, DPCRN: Dual-Path Convolution Recurrent Network for Single Channel Speech Enhancement, [Le](https://github.com/Le-Xiaohuai-speech). [[Paper]](https://www.isca-speech.org/archive/pdfs/interspeech_2021/le21b_interspeech.pdf) [[DPCRN]](https://github.com/Le-Xiaohuai-speech/DPCRN_DNS3)
+  * 2021, Real-time denoising and dereverberation with tiny recurrent u-net, Choi. [[Paper]](https://arxiv.org/pdf/2102.03207.pdf)
+  * 2021, DCCRN+: Channel-wise Subband DCCRN with SNR Estimation for Speech Enhancement, [Lv](https://github.com/IMYBo/)  [[Paper]](https://arxiv.org/abs/2106.08672)
+  * 
 
   ### Time domain
   * 2018, Improved Speech Enhancement with the Wave-U-Net, Macartney. [[Paper]](https://arxiv.org/pdf/1811.11307.pdf) [[WaveUNet]](https://github.com/YosukeSugiura/Wave-U-Net-for-Speech-Enhancement-NNabla) 
