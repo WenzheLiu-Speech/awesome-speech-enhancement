@@ -70,7 +70,9 @@ https://github.com/topics/beamforming
 
   * 2021, DCCRN+: Channel-wise Subband DCCRN with SNR Estimation for Speech Enhancement, [Lv](https://github.com/IMYBo/)  [[Paper]](https://arxiv.org/abs/2106.08672)
 
-  * 2022,FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement, [Chen](https://github.com/hit-thusz-RookieCJ)  [[Paper]](https://arxiv.org/abs/2203.12188)
+  * 2022, FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement, [Chen](https://github.com/hit-thusz-RookieCJ)  [[Paper]](https://arxiv.org/abs/2203.12188)
+
+  * 2022, Dual-branch Attention-In-Attention Transformer for single-channel speech enhancement, [Yu](https://github.com/yuguochencuc)  [[Paper]](https://arxiv.org/abs/2110.06467)
 
     
 
@@ -85,6 +87,7 @@ https://github.com/topics/beamforming
   * 2020, Densely Connected Neural Network with Dilated Convolutions for Real-Time Speech Enhancement in the Time Domain, [Pandey](https://github.com/ashutosh620). [[Paper]](https://ashutosh620.github.io/files/DDAEC_ICASSP_2020.pdf) [[DDAEC]](https://github.com/ashutosh620/DDAEC)
   * 2021, Dense CNN With Self-Attention for Time-Domain Speech Enhancement, [Pandey](https://github.com/ashutosh620). [[Paper]](https://ieeexplore.ieee.org/document/9372863)
   * 2021, Dual-path Self-Attention RNN for Real-Time Speech Enhancement, [Pandey](https://github.com/ashutosh620). [[Paper]](https://arxiv.org/abs/2010.12713)
+  * 2022, Speech Denoising in the Waveform Domain with Self-Attention, Kong. [[Paper]](https://arxiv.org/abs/2202.07790)
 
   ### GAN
   * 2017, SEGAN: Speech Enhancement Generative Adversarial Network, Pascual. [[Paper]](https://arxiv.org/pdf/1703.09452.pdfsegan_pytorch) [[SEGAN]](https://github.com/santi-pdp/segan_pytorch)
