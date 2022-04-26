@@ -25,7 +25,8 @@ https://github.com/topics/beamforming
   * 2020, A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech, [Valin](https://github.com/jmvalin). [Paper](https://arxiv.org/abs/2008.04259) [[PercepNet]](https://github.com/jzi040941/PercepNet)
   * 2020, Online Monaural Speech Enhancement using Delayed Subband LSTM, Li. [[Paper]](https://arxiv.org/abs/2005.05037)
   * 2020, FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement, [Hao](https://github.com/haoxiangsnr). [[Paper]](https://arxiv.org/pdf/2010.15508.pdf) [[FullSubNet]](https://github.com/haoxiangsnr/FullSubNet)
-  * 2021, RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features. [[Paper]](https://arxiv.org/abs/2105.11813) [[RNNoise-Ex]](https://github.com/CedArctic/rnnoise-ex)
+  * 2020， Weighted Speech Distortion Losses for Neural-network-based Real-time Speech Enhancement, Xia. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/0000871.pdf) [[NSNet]](https://github.com/GuillaumeVW/NSNet)
+  * 2021, RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features. [[Paper]](https://arxiv.org/abs/2105.11813) [[RNNoise-Ex]](https://github.com/CedArctic/rnnoise-ex) 
   * Other IRM-based SE repositories: [[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
   #### spectral mapping
@@ -70,7 +71,7 @@ https://github.com/topics/beamforming
 
   * 2021, DCCRN+: Channel-wise Subband DCCRN with SNR Estimation for Speech Enhancement, [Lv](https://github.com/IMYBo/)  [[Paper]](https://arxiv.org/abs/2106.08672)
 
-  * 2022, FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement, [Chen](https://github.com/hit-thusz-RookieCJ)  [[Paper]](https://arxiv.org/abs/2203.12188)
+  * 2022, FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement, [Chen](https://github.com/hit-thusz-RookieCJ)  [[Paper]](https://arxiv.org/abs/2203.12188) [[FullSubNet+]](https://github.com/hit-thusz-RookieCJ/FullSubNet-plus)
 
   * 2022, Dual-branch Attention-In-Attention Transformer for single-channel speech enhancement, [Yu](https://github.com/yuguochencuc)  [[Paper]](https://arxiv.org/abs/2110.06467)
 
@@ -110,7 +111,7 @@ https://github.com/topics/beamforming
     [[Code]](https://github.com/seanwood/gcc-nmf)
   * https://github.com/Jerry-jwz/Audio-Enhancement-via-ONMF-->
 
-  ### Multi-stage
+  ### Decoupling-style
   * 2020, A Recursive Network with Dynamic Attention for Monaural Speech Enhancement, [Li](https://github.com/Andong-Li-speech). [[Paper]](https://arxiv.org/abs/2003.12973) [[DARCN]](https://github.com/Andong-Li-speech/DARCN)
   * 2020, Masking and Inpainting: A Two-Stage Speech Enhancement Approach for Low SNR and Non-Stationary Noise, [Hao](https://github.com/haoxiangsnr). [[Paper]](https://ieeexplore.ieee.org/document/9053188/)
   * 2020, A Joint Framework of Denoising Autoencoder and Generative Vocoder for Monaural Speech Enhancement, Du. [[Paper]](https://ieeexplore.ieee.org/document/9082858)
@@ -119,6 +120,7 @@ https://github.com/topics/beamforming
   * 2021, ICASSP 2021 Deep Noise Suppression Challenge: Decoupling Magnitude and Phase Optimization with a Two-Stage Deep Network, [Li](https://github.com/Andong-Li-speech). [[Paper]](https://arxiv.org/abs/2102.04198)
   * 2022, Glance and Gaze: A Collaborative Learning Framework for Single-channel Speech Enhancement, [Li](https://github.com/Andong-Li-speech/GaGNet) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0003682X21005934)
   * 2022, HGCN : harmonic gated compensation network for speech enhancement, [Wang](https://github.com/wangtianrui/HGCN). [[Paper]](https://arxiv.org/pdf/2201.12755.pdf)
+  * 2022, Uformer: A Unet based dilated complex & real dual-path conformer network for simultaneous speech enhancement and dereverberation, [Fu](https://github.com/felixfuyihui). [[Paper]](https://arxiv.org/abs/2111.06015) [[Uformer]](https://github.com/felixfuyihui/Uformer)
 
   ### Data collection
   * [Kashyap](https://arxiv.org/pdf/2104.03838.pdf)([[Noise2Noise]](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data))
@@ -191,8 +193,7 @@ https://github.com/topics/beamforming
 [[Code]](https://github.com/hkmogul/BeamformingSpeechEnhancer)
 * TSENet [[Code]](https://github.com/felixfuyihui/felixfuyihui.github.io)
 * steernet [[Code]](https://github.com/FrancoisGrondin/steernet)
-* DNN_Localization_And_Separation 
-[[Code]](https://github.com/shaharhoch/DNN_Localization_And_Separation)
+* DNN_Localization_And_Separation [[Code]](https://github.com/shaharhoch/DNN_Localization_And_Separation)
 * nn-gev:Neural network supported GEV beamformer CHiME3 [[Code]](https://github.com/fgnt/nn-gev)
 * chime4-nn-mask:Implementation of NN based mask estimator in pytorch（reuse some programming from nn-gev）[[Code]](https://github.com/funcwj/chime4-nn-mask)
 * beamformit_matlab:A MATLAB implementation of CHiME4 baseline Beamformit  [[Code]](https://github.com/gogyzzz/beamformit_matlab)
@@ -202,6 +203,58 @@ https://github.com/topics/beamforming
 * deepBeam [[Code]](https://github.com/auspicious3000/deepbeam)
 * NN_MASK [[Code]](https://github.com/ZitengWang/nn_mask)
 * Cone-of-Silence [[Code]](https://github.com/vivjay30/Cone-of-Silence)
+
+## Tools
+* APS:A workspace for single/multi-channel speech recognition & enhancement & separation.  [[Code]](https://github.com/funcwj/aps)
+* AKtools:the open software toolbox for signal acquisition, processing, and inspection in acoustics [[SVN Code]](https://svn.ak.tu-berlin.de/svn/AKtools)(username: aktools; password: ak)
+* espnet [[Code]](https://github.com/espnet/espnet)
+* asteroid:The PyTorch-based audio source separation toolkit for researchers[[PDF]](https://arxiv.org/pdf/2005.04132.pdf)[[Code]](https://github.com/mpariente/asteroid)
+* pytorch_complex [[Code]](https://github.com/kamo-naoyuki/pytorch_complex)
+* ONSSEN: An Open-source Speech Separation and Enhancement Library 
+[[Code]](https://github.com/speechLabBcCuny/onssen)
+* separation_data_preparation[[Code]](https://github.com/YongyuG/separation_data_preparation)
+* MatlabToolbox [[Code]](https://github.com/IoSR-Surrey/MatlabToolbox)
+* athena-signal [[Code]](https://github.com/athena-team/athena-signal）
+* python_speech_features [[Code]](https://github.com/jameslyons/python_speech_features)
+* speechFeatures [[Code]](https://github.com/SusannaWull/speechFeatures)
+* sap-voicebox [[Code]](https://github.com/ImperialCollegeLondon/sap-voicebox)
+* Calculate-SNR-SDR [[Code]](https://github.com/JusperLee/Calculate-SNR-SDR)
+* RIR-Generator [[Code]](https://github.com/ehabets/RIR-Generator)
+* Python library for Room Impulse Response (RIR) simulation with GPU acceleration [[Code]](https://github.com/DavidDiazGuerra/gpuRIR)
+* ROOMSIM:binaural image source simulation [[Code]](https://github.com/Wenzhe-Liu/ROOMSIM)
+* binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
+* PESQ [[Code]](https://github.com/vBaiCai/python-pesq)
+* SETK: Speech Enhancement Tools integrated with Kaldi 
+[[Code]](https://github.com/funcwj/setk)
+* pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
+
+## Books
+* P. C.Loizou: Speech Enhancement: Theory and Practice
+* J. Benesty, Y. Huang: Adaptive Signal Processing: Applications to Real-World Problems
+* S. Haykin: Adaptive Filter Theory
+* Eberhard Hansler, Gerhard Schmidt: Single-Channel Acoustic Echo Cancellation 和 Topics in Acoustic Echo and Noise Control
+* J. Benesty, S. Makino, J. Chen: Speech Enhancement
+* J. Benesty, M. M. Sondhi, Y. Huang: Handbook Of Speech Processing
+* Ivan J. Tashev: Sound Capture and Processing: Practical Approaches
+* I. Cohen, J. Benesty, S. Gannot: Speech Processing in Modern Communication
+* E. Vincent, T. Virtanen, S. Gannot: Audio Source Separation and Speech Enhancement
+* J. Benesty 等: A Perspective on Stereophonic Acoustic Echo Cancellation
+* J. Benesty 等: Advances in Network and Acoustic Echo Cancellation
+* T. F.Quatieri: Discrete-time speech signal processing: principles and practice
+* 宋知用: MATLAB在语音信号分析与合成中的应用
+* Harry L.Van Trees: Optimum Array Processing
+* 王永良: 空间谱估计理论与算法
+* 鄢社锋: 优化阵列信号处理
+* 张小飞: 阵列信号处理及matlab实现
+* 赵拥军: 宽带阵列信号波达方向估计理论与方法
+
+
+## Resources
+* Speech Signal Processing Course(ZH) [[Link]](https://github.com/veenveenveen/SpeechSignalProcessingCourse)
+* Speech Algorithms(ZH) [[Link]](https://github.com/Ryuk17/SpeechAlgorithms)
+* Speech Resources[[Link]](https://github.com/ddlBoJack/Speech-Resources)
+* Sound capture and speech enhancement for speech-enabled devices [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2022/01/Sound-capture-and-speech-enhancement-for-speech-enabled-devices-ASA-181.pdf)
+* CCF语音对话与听觉专业组语音对话与听觉前沿研讨会(ZH) [[Link]](https://www.bilibili.com/video/BV1MV411k7iJ)
 -----------------------------------------------------------------------
 * binauralLocalization 
 [[Code]](https://github.com/nicolasobin/binauralLocalization)
@@ -236,32 +289,4 @@ https://github.com/topics/beamforming
 * seld-net 
 [[Code]](https://github.com/sharathadavanne/seld-net)
 
-## Tools
-* APS:A workspace for single/multi-channel speech recognition & enhancement & separation.  [[Code]](https://github.com/funcwj/aps)
-* AKtools:the open software toolbox for signal acquisition, processing, and inspection in acoustics [[SVN Code]](https://svn.ak.tu-berlin.de/svn/AKtools)(username: aktools; password: ak)
-* espnet [[Code]](https://github.com/espnet/espnet)
-* asteroid:The PyTorch-based audio source separation toolkit for researchers[[PDF]](https://arxiv.org/pdf/2005.04132.pdf)[[Code]](https://github.com/mpariente/asteroid)
-* pytorch_complex [[Code]](https://github.com/kamo-naoyuki/pytorch_complex)
-* ONSSEN: An Open-source Speech Separation and Enhancement Library 
-[[Code]](https://github.com/speechLabBcCuny/onssen)
-* separation_data_preparation[[Code]](https://github.com/YongyuG/separation_data_preparation)
-* MatlabToolbox [[Code]](https://github.com/IoSR-Surrey/MatlabToolbox)
-* athena-signal [[Code]](https://github.com/athena-team/athena-signal）
-* python_speech_features [[Code]](https://github.com/jameslyons/python_speech_features)
-* speechFeatures:语音处理，声源定位中的一些基本特征 [[Code]](https://github.com/SusannaWull/speechFeatures)
-* sap-voicebox [[Code]](https://github.com/ImperialCollegeLondon/sap-voicebox)
-* Calculate-SNR-SDR [[Code]](https://github.com/JusperLee/Calculate-SNR-SDR)
-* RIR-Generator [[Code]](https://github.com/ehabets/RIR-Generator)
-* Python library for Room Impulse Response (RIR) simulation with GPU acceleration [[Code]](https://github.com/DavidDiazGuerra/gpuRIR)
-* ROOMSIM:binaural image source simulation [[Code]](https://github.com/Wenzhe-Liu/ROOMSIM)
-* binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
-* PESQ [[Code]](https://github.com/vBaiCai/python-pesq)
-* SETK: Speech Enhancement Tools integrated with Kaldi 
-[[Code]](https://github.com/funcwj/setk)
-* pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
 
-## Resources
-* Speech Signal Processing Course(ZH) [[Link]](https://github.com/veenveenveen/SpeechSignalProcessingCourse)
-* Speech Algorithms(ZH) [[Link]](https://github.com/Ryuk17/SpeechAlgorithms)
-* Speech Resources[[Link]](https://github.com/ddlBoJack/Speech-Resources)
-* CCF语音对话与听觉专业组语音对话与听觉前沿研讨会(ZH) [[Link]](https://www.bilibili.com/video/BV1MV411k7iJ)
