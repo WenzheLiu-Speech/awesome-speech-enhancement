@@ -12,8 +12,8 @@ https://github.com/topics/beamforming
 - [Dereverberation](#Dereverberation)
 - [Speech_Seperation](#Speech_Seperation)
 - [Array_Signal_Processing](#Array_Signal_Processing)
-- [Sound_Event_Detection](#Sound_Event_Detection)
 - [Tools](#Tools)
+- [Books](#Books)
 - [Resources](#Resources)
 
 ## Speech_Enhancement
