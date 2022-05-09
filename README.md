@@ -26,6 +26,7 @@ https://github.com/topics/beamforming
   * 2020, Online Monaural Speech Enhancement using Delayed Subband LSTM, Li. [[Paper]](https://arxiv.org/abs/2005.05037)
   * 2020, FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement, [Hao](https://github.com/haoxiangsnr). [[Paper]](https://arxiv.org/pdf/2010.15508.pdf) [[FullSubNet]](https://github.com/haoxiangsnr/FullSubNet)
   * 2020， Weighted Speech Distortion Losses for Neural-network-based Real-time Speech Enhancement, Xia. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/0000871.pdf) [[NSNet]](https://github.com/GuillaumeVW/NSNet)
+  * 2020, RNNoise-like fixed-point model deployed on Microcontroller using NNoM inference framework [[example]](https://github.com/majianjia/nnom/tree/master/examples/rnn-denoise) [[NNoM]](https://github.com/majianjia/nnom)
   * 2021, RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features. [[Paper]](https://arxiv.org/abs/2105.11813) [[RNNoise-Ex]](https://github.com/CedArctic/rnnoise-ex) 
   * Other IRM-based SE repositories: [[IRM-SE-LSTM]](https://github.com/haoxiangsnr/IRM-based-Speech-Enhancement-using-LSTM) [[nn-irm]](https://github.com/zhaoforever/nn-irm) [[rnn-se]](https://github.com/amaas/rnn-speech-denoising) [[DL4SE]](https://github.com/miralv/Deep-Learning-for-Speech-Enhancement)
 
