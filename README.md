@@ -121,6 +121,7 @@ https://github.com/topics/beamforming
   * 2022, Glance and Gaze: A Collaborative Learning Framework for Single-channel Speech Enhancement, [Li](https://github.com/Andong-Li-speech/GaGNet) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0003682X21005934)
   * 2022, HGCN : harmonic gated compensation network for speech enhancement, [Wang](https://github.com/wangtianrui/HGCN). [[Paper]](https://arxiv.org/pdf/2201.12755.pdf)
   * 2022, Uformer: A Unet based dilated complex & real dual-path conformer network for simultaneous speech enhancement and dereverberation, [Fu](https://github.com/felixfuyihui). [[Paper]](https://arxiv.org/abs/2111.06015) [[Uformer]](https://github.com/felixfuyihui/Uformer)
+  * 2022， DeepFilterNet2: Towards Real-Time Speech Enhancement on Embedded Devices for Full-Band Audio, [Schröter](https://github.com/Rikorose). [[Paper]](https://arxiv.org/abs/2205.05474) [[DeepFilterNet]](https://github.com/Rikorose/DeepFilterNet)
 
   ### Data collection
   * [Kashyap](https://arxiv.org/pdf/2104.03838.pdf)([[Noise2Noise]](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data))
