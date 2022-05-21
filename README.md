@@ -221,6 +221,7 @@ https://github.com/topics/beamforming
 * sap-voicebox [[Code]](https://github.com/ImperialCollegeLondon/sap-voicebox)
 * Calculate-SNR-SDR [[Code]](https://github.com/JusperLee/Calculate-SNR-SDR)
 * RIR-Generator [[Code]](https://github.com/ehabets/RIR-Generator)
+* Signal-Generator (for moving sources or a moving array) [[Code]](https://github.com/ehabets/Signal-Generator)
 * Python library for Room Impulse Response (RIR) simulation with GPU acceleration [[Code]](https://github.com/DavidDiazGuerra/gpuRIR)
 * ROOMSIM:binaural image source simulation [[Code]](https://github.com/Wenzhe-Liu/ROOMSIM)
 * binaural-image-source-model [[Code]](https://github.com/iCorv/binaural-image-source-model)
