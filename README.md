@@ -141,6 +141,7 @@ https://github.com/topics/beamforming
   * SPENDRED [[Paper]](https://ieeexplore.ieee.org/document/7795155)
     [[SPENDRED]](https://github.com/csd111/dereverberation)
   * WPE(MCLP) [[Paper]](https://ieeexplore.ieee.org/document/6255769)[[nara-WPE]](https://github.com/fgnt/nara_wpe)
+  * GWPE [[Code]](https://github.com/snsun/gwpe-speech-dereverb)
   * LP Residual [[Paper]](https://ieeexplore.ieee.org/abstract/document/1621193) [[LP_residual]](https://github.com/shamim-hussain/speech_dereverbaration_using_lp_residual)
   * dereverberate [[Paper]](https://www.aes.org/e-lib/browse.cfm?elib=15675) [[Code]](https://github.com/matangover/dereverberate)
   * NMF [[Paper]](https://ieeexplore.ieee.org/document/7471656/) [[NMF]](https://github.com/deepakbaby/dereverberation-and-denoising)
