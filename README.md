@@ -255,7 +255,7 @@ https://github.com/topics/beamforming
 * 鄢社锋: 优化阵列信号处理
 * 张小飞: 阵列信号处理及matlab实现
 * 赵拥军: 宽带阵列信号波达方向估计理论与方法
-
+* [The-guidebook-of-speech-enhancement](https://github.com/WenzheLiu-Speech/The-guidebook-of-speech-enhancement)
 
 ## Resources
 * Speech Signal Processing Course(ZH) [[Link]](https://github.com/veenveenveen/SpeechSignalProcessingCourse)
