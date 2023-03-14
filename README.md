@@ -97,6 +97,7 @@ https://github.com/topics/beamforming
   * 2019, MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement, [Fu](https://github.com/JasonSWFu). [[Paper]](https://arxiv.org/pdf/1905.04874.pdf) [[MetricGAN]](https://github.com/JasonSWFu/MetricGAN)
   * 2019, MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement, [Fu](https://github.com/JasonSWFu). [[Paper]](https://arxiv.org/abs/2104.03538) [[MetricGAN+]](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN)
   * 2020, HiFi-GAN: High-Fidelity Denoising and Dereverberation Based on Speech Deep Features in Adversarial Networks, Su. [[Paper]](https://arxiv.org/abs/2006.05694) [[HifiGAN]](https://github.com/rishikksh20/hifigan-denoiser)
+  * 2022, CMGAN: Conformer-Based Metric GAN for Monaural Speech Enhancement, [Abdulatif](https://github.com/SherifAbdulatif), [Cao](https://github.com/ruizhecao96) & Yang. [[Paper]](https://arxiv.org/abs/2209.11112) [[CMGAN]](https://github.com/ruizhecao96/CMGAN)
 
   ### Hybrid SE 
   * 2019, Deep Xi as a Front-End for Robust Automatic Speech Recognition, [Nicolson](https://github.com/anicolson). [[Paper]](https://arxiv.org/abs/1906.07319) [[DeepXi]](https://github.com/anicolson/DeepXi)
