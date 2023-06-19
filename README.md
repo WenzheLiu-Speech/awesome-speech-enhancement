@@ -91,6 +91,7 @@ https://github.com/topics/beamforming
   * 2020, Densely Connected Neural Network with Dilated Convolutions for Real-Time Speech Enhancement in the Time Domain, [Pandey](https://github.com/ashutosh620). [[Paper]](https://ashutosh620.github.io/files/DDAEC_ICASSP_2020.pdf) [[DDAEC]](https://github.com/ashutosh620/DDAEC)
   * 2021, Dense CNN With Self-Attention for Time-Domain Speech Enhancement, [Pandey](https://github.com/ashutosh620). [[Paper]](https://ieeexplore.ieee.org/document/9372863)
   * 2021, Dual-path Self-Attention RNN for Real-Time Speech Enhancement, [Pandey](https://github.com/ashutosh620). [[Paper]](https://arxiv.org/abs/2010.12713)
+  * 2021. A Flow-based Neural Network for Time Domain Speech Enhanceent, Strauss & [Edler](https://www.audiolabs-erlangen.de/fau/professor/edler). [[Paper]](https://arxiv.org/abs/2106.09008)
   * 2022, Speech Denoising in the Waveform Domain with Self-Attention, Kong. [[Paper]](https://arxiv.org/abs/2202.07790)
 
   ### GAN
