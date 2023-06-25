@@ -93,7 +93,7 @@ https://github.com/topics/beamforming
   * 2021, Dual-path Self-Attention RNN for Real-Time Speech Enhancement, [Pandey](https://github.com/ashutosh620). [[Paper]](https://arxiv.org/abs/2010.12713)
   * 2022, Speech Denoising in the Waveform Domain with Self-Attention, Kong. [[Paper]](https://arxiv.org/abs/2202.07790)
 
-  ### Generative Model
+### Generative Model
   #### GAN
   * 2017, SEGAN: Speech Enhancement Generative Adversarial Network, Pascual. [[Paper]](https://arxiv.org/pdf/1703.09452.pdfsegan_pytorch) [[SEGAN]](https://github.com/santi-pdp/segan_pytorch)
   * 2019, SERGAN: Speech enhancement using relativistic generative adversarial networks with gradient penalty, [Deepak Baby]((https://github.com/deepakbaby)). [[Paper]](https://biblio.ugent.be/publication/8613639/file/8646769.pdf) [[SERGAN]](https://github.com/deepakbaby/se_relativisticgan)
@@ -102,20 +102,20 @@ https://github.com/topics/beamforming
   * 2020, HiFi-GAN: High-Fidelity Denoising and Dereverberation Based on Speech Deep Features in Adversarial Networks, Su. [[Paper]](https://arxiv.org/abs/2006.05694) [[HifiGAN]](https://github.com/rishikksh20/hifigan-denoiser)
   * 2022, CMGAN: Conformer-Based Metric GAN for Monaural Speech Enhancement, [Abdulatif](https://github.com/SherifAbdulatif), [Cao](https://github.com/ruizhecao96) & Yang. [[Paper]](https://arxiv.org/abs/2209.11112) [[CMGAN]](https://github.com/ruizhecao96/CMGAN)
 
-#### Glow / Flow
-* 2021. A Flow-based Neural Network for Time Domain Speech Enhanceent, Strauss & [Edler](https://www.audiolabs-erlangen.de/fau/professor/edler). [[Paper]](https://arxiv.org/abs/2106.09008)
+#### Flow
+* 2021, A Flow-based Neural Network for Time Domain Speech Enhanceent, Strauss & [Edler](https://www.audiolabs-erlangen.de/fau/professor/edler). [[Paper]](https://arxiv.org/abs/2106.09008)
 
 #### VAE
-* 2018. A variance modeling framework based on variational autoencoders for speech enhancement, [[Leglaive]](https://gitlab.inria.fr/sileglai). [[Paper]](https://hal.inria.fr/hal-01832826v1/document) [[mlsp]](https://gitlab.inria.fr/sileglai/mlsp-2018)
-* 2020. Speech Enhancement with Stochastic Temporal Convolutional Networks, Richter. [[Paper]](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2588.pdf) [[STCN-NMF]](https://github.com/sp-uhh/stcn-nmf)
+* 2018, A variance modeling framework based on variational autoencoders for speech enhancement, [[Leglaive]](https://gitlab.inria.fr/sileglai). [[Paper]](https://hal.inria.fr/hal-01832826v1/document) [[mlsp]](https://gitlab.inria.fr/sileglai/mlsp-2018)
+* 2020, Speech Enhancement with Stochastic Temporal Convolutional Networks, Richter. [[Paper]](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2588.pdf) [[STCN-NMF]](https://github.com/sp-uhh/stcn-nmf)
 
 #### Diffusion Model
-* 2022. Speech Enhancement with Score-Based Generative Models in the Complex STFT Domain, Welker. [[Paper]](https://www.isca-speech.org/archive/interspeech_2022/welker22_interspeech.html) [[SGMSE]](https://github.com/sp-uhh/sgmse)
-* 2022. StoRM: A Stochastic Regeneration Model for Speech Enhancement And Dereverberation, Lemercier. [[Paper]](https://arxiv.org/abs/2212.11851) [[StoRM]](https://github.com/sp-uhh/storm)
-* 2022. Conditional Diffusion Probabilistic Model for Speech Enhancement, Lu. [[Paper]](https://arxiv.org/abs/2202.05256) [[CDiffuSE]](https://github.com/neillu23/CDiffuSE) 
-* 2023. Speech Enhancement and Dereverberation with Diffusion-Based Generative Models, Richter. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10149431) [[SGMSE]](https://github.com/sp-uhh/sgmse)
+* 2022, Speech Enhancement with Score-Based Generative Models in the Complex STFT Domain, Welker. [[Paper]](https://www.isca-speech.org/archive/interspeech_2022/welker22_interspeech.html) [[SGMSE]](https://github.com/sp-uhh/sgmse)
+* 2022, StoRM: A Stochastic Regeneration Model for Speech Enhancement And Dereverberation, Lemercier. [[Paper]](https://arxiv.org/abs/2212.11851) [[StoRM]](https://github.com/sp-uhh/storm)
+* 2022, Conditional Diffusion Probabilistic Model for Speech Enhancement, Lu. [[Paper]](https://arxiv.org/abs/2202.05256) [[CDiffuSE]](https://github.com/neillu23/CDiffuSE) 
+* 2023, Speech Enhancement and Dereverberation with Diffusion-Based Generative Models, Richter. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10149431) [[SGMSE]](https://github.com/sp-uhh/sgmse)
 
-  ### Hybrid SE 
+### Hybrid SE 
   * 2019, Deep Xi as a Front-End for Robust Automatic Speech Recognition, [Nicolson](https://github.com/anicolson). [[Paper]](https://arxiv.org/abs/1906.07319) [[DeepXi]](https://github.com/anicolson/DeepXi)
   * 2019, Using Generalized Gaussian Distributions to Improve Regression Error Modeling for Deep-Learning-Based Speech Enhancement, [Li](https://github.com/LiChaiUSTC). [[Paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/chaili2019trans.pdf) [[SE-MLC]](https://github.com/LiChaiUSTC/Speech-enhancement-based-on-a-maximum-likelihood-criterion)
   * 2020, Deep Residual-Dense Lattice Network for Speech Enhancement, [Nikzad](https://github.com/nick-nikzad). [[Paper]](https://arxiv.org/pdf/2002.12794.pdf) [[RDL-SE]](https://github.com/nick-nikzad/RDL-SE)
