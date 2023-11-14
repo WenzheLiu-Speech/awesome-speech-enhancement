@@ -272,6 +272,7 @@ https://github.com/topics/beamforming
 * [The-guidebook-of-speech-enhancement](https://github.com/WenzheLiu-Speech/The-guidebook-of-speech-enhancement)
 
 ## Resources
+* Sixty-years-of-frequency-domain-monaural-speech-enhancement [[se_overview]](https://github.com/cszheng-ioa/Sixty-years-of-frequency-domain-monaural-speech-enhancement)
 * Speech Signal Processing Course(ZH) [[Link]](https://github.com/veenveenveen/SpeechSignalProcessingCourse)
 * Speech Algorithms(ZH) [[Link]](https://github.com/Ryuk17/SpeechAlgorithms)
 * Speech Resources[[Link]](https://github.com/ddlBoJack/Speech-Resources)
