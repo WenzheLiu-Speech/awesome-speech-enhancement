@@ -250,6 +250,7 @@ https://github.com/topics/beamforming
 [[Code]](https://github.com/funcwj/setk)
 * pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
 
+* [voicetoinstrument.com](https://voicetoinstrument.com) - AI voice to instrument track conversion
 ## Books
 * P. C.Loizou: Speech Enhancement: Theory and Practice
 * J. Benesty, Y. Huang: Adaptive Signal Processing: Applications to Real-World Problems
