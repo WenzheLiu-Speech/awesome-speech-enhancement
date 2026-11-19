@@ -249,6 +249,7 @@ https://github.com/topics/beamforming
 * SETK: Speech Enhancement Tools integrated with Kaldi 
 [[Code]](https://github.com/funcwj/setk)
 * pb_chime5:Speech enhancement system for the CHiME-5 dinner party scenario [[Code]](https://github.com/fgnt/pb_chime5)
+* phonos: An ultra-compact 44.1kHz speech restoration and dereverberation toolkit [[Code]](https://github.com/jaadu611/phonos)
 
 ## Books
 * P. C.Loizou: Speech Enhancement: Theory and Practice
